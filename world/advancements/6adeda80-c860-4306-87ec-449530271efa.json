@@ -23,15 +23,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/black_stained_glass": {
-    "criteria": {
-      "has_glass": "2020-06-04 22:40:40 -0400"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_andesite_slab": {
     "criteria": {
       "has_polished_andesite": "2020-06-04 22:38:32 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_stained_glass": {
+    "criteria": {
+      "has_glass": "2020-06-04 22:40:40 -0400"
     },
     "done": true
   },
@@ -1549,7 +1549,8 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
-      "minecraft:cow": "2020-06-05 00:59:33 -0400"
+      "minecraft:cow": "2020-06-05 00:59:33 -0400",
+      "minecraft:chicken": "2020-06-05 17:29:53 -0400"
     },
     "done": false
   },

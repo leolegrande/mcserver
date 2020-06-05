@@ -1,35 +1,81 @@
-[13:33:25] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[13:33:25] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[13:33:25] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[13:33:25] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[13:33:25] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[13:33:25] [Server thread/INFO]: Starting minecraft server version 1.15.2
-[13:33:25] [Server thread/INFO]: Loading properties
-[13:33:25] [Server thread/INFO]: Default game type: SURVIVAL
-[13:33:25] [Server thread/INFO]: Generating keypair
-[13:33:26] [Server thread/INFO]: Starting Minecraft server on *:25565
-[13:33:26] [Server thread/INFO]: Using default channel type
-[13:33:26] [Server thread/INFO]: Preparing level "world"
-[13:33:26] [Server thread/INFO]: Reloading ResourceManager: Default
-[13:33:27] [Server thread/INFO]: Loaded 6 recipes
-[13:33:28] [Server thread/INFO]: Loaded 825 advancements
-[13:33:28] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[13:33:30] [Server thread/INFO]: Preparing spawn area: 0%
-[13:33:30] [Server thread/INFO]: Preparing spawn area: 0%
-[13:33:30] [Server thread/INFO]: Preparing spawn area: 0%
-[13:33:30] [Server thread/INFO]: Preparing spawn area: 0%
-[13:33:36] [Server-Worker-7/INFO]: Preparing spawn area: 0%
-[13:33:36] [Server-Worker-5/INFO]: Preparing spawn area: 0%
-[13:33:36] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[13:33:36] [Server-Worker-7/INFO]: Preparing spawn area: 0%
-[13:33:36] [Server-Worker-5/INFO]: Preparing spawn area: 0%
-[13:33:36] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[13:33:36] [Server-Worker-7/INFO]: Preparing spawn area: 0%
-[13:33:36] [Server-Worker-5/INFO]: Preparing spawn area: 0%
-[13:33:36] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[13:33:36] [Server-Worker-4/INFO]: Preparing spawn area: 0%
-[13:33:36] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[13:33:36] [Server-Worker-6/INFO]: Preparing spawn area: 0%
-[13:33:36] [Server-Worker-6/INFO]: Preparing spawn area: 0%
-[13:33:37] [Server thread/INFO]: Time elapsed: 8495 ms
-[13:33:37] [Server thread/INFO]: Done (10.747s)! For help, type "help"
+[14:34:26] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[14:34:26] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:34:26] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:34:26] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[14:34:26] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:34:26] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[14:34:26] [Server thread/INFO]: Loading properties
+[14:34:26] [Server thread/INFO]: Default game type: SURVIVAL
+[14:34:26] [Server thread/INFO]: Generating keypair
+[14:34:27] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:34:27] [Server thread/INFO]: Using default channel type
+[14:34:27] [Server thread/INFO]: Preparing level "world"
+[14:34:28] [Server thread/INFO]: Reloading ResourceManager: Default
+[14:34:29] [Server thread/INFO]: Loaded 6 recipes
+[14:34:29] [Server thread/INFO]: Loaded 825 advancements
+[14:34:30] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:34:32] [Server thread/INFO]: Preparing spawn area: 0%
+[14:34:32] [Server thread/INFO]: Preparing spawn area: 0%
+[14:34:32] [Server thread/INFO]: Preparing spawn area: 0%
+[14:34:32] [Server thread/INFO]: Preparing spawn area: 0%
+[14:34:32] [Server thread/INFO]: Preparing spawn area: 0%
+[14:34:39] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[14:34:39] [Server-Worker-4/INFO]: Preparing spawn area: 0%
+[14:34:39] [Server-Worker-6/INFO]: Preparing spawn area: 0%
+[14:34:39] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[14:34:39] [Server-Worker-4/INFO]: Preparing spawn area: 0%
+[14:34:39] [Server-Worker-6/INFO]: Preparing spawn area: 0%
+[14:34:39] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[14:34:39] [Server-Worker-4/INFO]: Preparing spawn area: 0%
+[14:34:39] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[14:34:39] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[14:34:39] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[14:34:39] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[14:34:39] [Server-Worker-4/INFO]: Preparing spawn area: 0%
+[14:34:39] [Server thread/INFO]: Time elapsed: 8998 ms
+[14:34:39] [Server thread/INFO]: Done (11.460s)! For help, type "help"
+[14:35:11] [User Authenticator #1/INFO]: UUID of player gdaddy69 is a90499d2-9994-4ae5-aacd-07a3a4e92598
+[14:35:12] [Server thread/INFO]: gdaddy69[/192.168.1.14:4541] logged in with entity id 253 at (-51.65184886040162, 72.0, -62.70915775592651)
+[14:35:12] [Server thread/INFO]: gdaddy69 joined the game
+[15:04:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2621ms or 52 ticks behind
+[15:14:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3269ms or 65 ticks behind
+[15:19:48] [Server thread/WARN]: gdaddy69 moved too quickly! -4.560990922670044,1.5800000131130219,9.047506050450238
+[15:19:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3666ms or 73 ticks behind
+[15:21:18] [Server thread/INFO]: gdaddy69 has made the advancement [Ol' Betsy]
+[15:24:50] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! -2.5194317997020335,-5.076832001495362,8.659693199420872
+[15:24:50] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! -2.4845269476725207,-5.227453458663007,8.925335848707391
+[15:24:50] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! -2.4506904912004757,-5.448942310437602,9.184599807506515
+[15:24:50] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! -2.4178239833984208,-5.738492209317357,9.4381773204409
+[15:24:50] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! -2.3858053223607385,-6.0,9.68668159033109
+[15:24:50] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! -2.3296963558914285,-6.0,10.131878441251388
+[15:24:50] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! -2.461900458830087,-6.0,10.526395528030207
+[15:24:50] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! -2.6948671306515735,-6.0,10.89379488346242
+[15:24:50] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! -2.9817498440932013,-6.0,11.246684081520243
+[15:24:50] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! -3.2089512160853246,-6.0,11.643611107860579
+[15:24:50] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! -3.4042182921853055,-6.0,12.064101898095373
+[15:24:50] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! -3.583414613317018,-6.0,12.49683836291581
+[15:27:46] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! 7.8479519007460965,0.0,6.860392721938979
+[15:27:46] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! 8.052327420936848,0.0,7.283259316578636
+[15:27:46] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! 8.24346265449472,0.0,7.714588672737506
+[15:27:46] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! 8.427513274658168,0.0,8.15044628385607
+[15:27:46] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! 8.607773059446203,0.0,8.588726873919882
+[15:27:46] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! 8.786004443805979,0.0,9.028303951708324
+[15:27:46] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! 9.050218277298484,0.0,9.412639376057854
+[15:27:46] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! 9.364034606672845,0.0,9.763244030344936
+[15:27:46] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! 9.710233085980377,0.0,10.088552783454531
+[15:27:46] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! 10.082868251081237,0.0,10.387647497532583
+[15:27:46] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! 10.477622647093398,0.0,10.65984872101805
+[15:27:46] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! 10.891028539113108,0.0,10.904848975318345
+[15:27:46] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! 11.252809699990678,0.0,11.206168334962229
+[15:27:46] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! 11.590862770104678,0.0,11.534329689626048
+[15:27:58] [Server thread/WARN]: Horse moved wrongly!
+[15:58:49] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/19131, l='world', x=-104.01, y=71.00, z=-37.05]
+[16:27:51] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/22870, l='world', x=-96.93, y=71.00, z=-37.12]
+[17:03:23] [Server thread/INFO]: gdaddy69 lost connection: Disconnected
+[17:03:23] [Server thread/INFO]: gdaddy69 left the game
+[17:16:16] [User Authenticator #2/INFO]: Disconnecting com.mojang.authlib.GameProfile@f3d161[id=<null>,name=_stealthsniper_,properties={},legacy=false] (/24.188.161.146:51729): Authentication servers are down. Please try again later, sorry!
+[17:16:16] [User Authenticator #2/ERROR]: Couldn't verify username because servers are unavailable
+[17:16:16] [Server thread/INFO]: com.mojang.authlib.GameProfile@f3d161[id=<null>,name=_stealthsniper_,properties={},legacy=false] (/24.188.161.146:51729) lost connection: Authentication servers are down. Please try again later, sorry!
+[17:19:28] [User Authenticator #3/INFO]: UUID of player _stealthsniper_ is 6adeda80-c860-4306-87ec-449530271efa
+[17:19:29] [Server thread/INFO]: _stealthsniper_[/24.188.161.146:51747] logged in with entity id 30125 at (-82.51959208691424, 71.0, -45.58723152925948)
+[17:19:29] [Server thread/INFO]: _stealthsniper_ joined the game
