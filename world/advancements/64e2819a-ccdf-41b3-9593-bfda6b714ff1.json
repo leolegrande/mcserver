@@ -131,15 +131,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2020-06-04 21:11:08 -0400"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/gray_stained_glass": {
     "criteria": {
       "has_glass": "2020-06-04 21:10:11 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2020-06-04 21:11:08 -0400"
     },
     "done": true
   },
@@ -218,6 +218,12 @@
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_stone": "2020-06-04 02:16:08 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2020-06-05 20:11:27 -0400"
     },
     "done": true
   },
@@ -705,6 +711,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2020-06-05 20:11:27 -0400"
+    },
+    "done": true
+  },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:cow": "2020-06-05 00:34:25 -0400",
@@ -841,15 +853,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/orange_wool": {
-    "criteria": {
-      "has_white_wool": "2020-06-05 00:08:06 -0400"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/green_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-06-04 21:10:11 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_wool": {
+    "criteria": {
+      "has_white_wool": "2020-06-05 00:08:06 -0400"
     },
     "done": true
   },
@@ -1051,15 +1063,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/spectral_arrow": {
-    "criteria": {
-      "has_glowstone_dust": "2020-06-05 03:05:49 -0400"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2020-06-04 22:10:11 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2020-06-05 03:05:49 -0400"
     },
     "done": true
   },
@@ -1074,6 +1086,9 @@
       "minecraft:skeleton": "2020-06-04 00:02:58 -0400",
       "minecraft:spider": "2020-06-04 00:32:42 -0400",
       "minecraft:creeper": "2020-06-03 23:47:11 -0400",
+      "minecraft:phantom": "2020-06-05 21:35:58 -0400",
+      "minecraft:witch": "2020-06-05 19:03:41 -0400",
+      "minecraft:cave_spider": "2020-06-05 21:02:27 -0400",
       "minecraft:enderman": "2020-06-04 01:30:11 -0400",
       "minecraft:zombie": "2020-06-04 00:45:22 -0400",
       "minecraft:drowned": "2020-06-04 03:53:17 -0400",
@@ -1093,15 +1108,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/birch_wood": {
-    "criteria": {
-      "has_log": "2020-06-04 22:50:41 -0400"
-    },
-    "done": true
-  },
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2020-06-04 22:41:51 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2020-06-04 22:50:41 -0400"
     },
     "done": true
   },
@@ -1306,6 +1321,12 @@
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2020-06-04 23:45:51 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2020-06-05 20:11:27 -0400"
     },
     "done": true
   },
@@ -1876,6 +1897,12 @@
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2020-06-03 23:43:12 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2020-06-05 20:51:20 -0400"
     },
     "done": true
   },
