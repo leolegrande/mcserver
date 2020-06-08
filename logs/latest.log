@@ -1,614 +1,111 @@
-[14:34:26] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[14:34:26] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[14:34:26] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[14:34:26] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[14:34:26] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[14:34:26] [Server thread/INFO]: Starting minecraft server version 1.15.2
-[14:34:26] [Server thread/INFO]: Loading properties
-[14:34:26] [Server thread/INFO]: Default game type: SURVIVAL
-[14:34:26] [Server thread/INFO]: Generating keypair
-[14:34:27] [Server thread/INFO]: Starting Minecraft server on *:25565
-[14:34:27] [Server thread/INFO]: Using default channel type
-[14:34:27] [Server thread/INFO]: Preparing level "world"
-[14:34:28] [Server thread/INFO]: Reloading ResourceManager: Default
-[14:34:29] [Server thread/INFO]: Loaded 6 recipes
-[14:34:29] [Server thread/INFO]: Loaded 825 advancements
-[14:34:30] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[14:34:32] [Server thread/INFO]: Preparing spawn area: 0%
-[14:34:32] [Server thread/INFO]: Preparing spawn area: 0%
-[14:34:32] [Server thread/INFO]: Preparing spawn area: 0%
-[14:34:32] [Server thread/INFO]: Preparing spawn area: 0%
-[14:34:32] [Server thread/INFO]: Preparing spawn area: 0%
-[14:34:39] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[14:34:39] [Server-Worker-4/INFO]: Preparing spawn area: 0%
-[14:34:39] [Server-Worker-6/INFO]: Preparing spawn area: 0%
-[14:34:39] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[14:34:39] [Server-Worker-4/INFO]: Preparing spawn area: 0%
-[14:34:39] [Server-Worker-6/INFO]: Preparing spawn area: 0%
-[14:34:39] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[14:34:39] [Server-Worker-4/INFO]: Preparing spawn area: 0%
-[14:34:39] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[14:34:39] [Server-Worker-3/INFO]: Preparing spawn area: 0%
-[14:34:39] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[14:34:39] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[14:34:39] [Server-Worker-4/INFO]: Preparing spawn area: 0%
-[14:34:39] [Server thread/INFO]: Time elapsed: 8998 ms
-[14:34:39] [Server thread/INFO]: Done (11.460s)! For help, type "help"
-[14:35:11] [User Authenticator #1/INFO]: UUID of player gdaddy69 is a90499d2-9994-4ae5-aacd-07a3a4e92598
-[14:35:12] [Server thread/INFO]: gdaddy69[/192.168.1.14:4541] logged in with entity id 253 at (-51.65184886040162, 72.0, -62.70915775592651)
-[14:35:12] [Server thread/INFO]: gdaddy69 joined the game
-[15:04:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2621ms or 52 ticks behind
-[15:14:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3269ms or 65 ticks behind
-[15:19:48] [Server thread/WARN]: gdaddy69 moved too quickly! -4.560990922670044,1.5800000131130219,9.047506050450238
-[15:19:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3666ms or 73 ticks behind
-[15:21:18] [Server thread/INFO]: gdaddy69 has made the advancement [Ol' Betsy]
-[15:24:50] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! -2.5194317997020335,-5.076832001495362,8.659693199420872
-[15:24:50] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! -2.4845269476725207,-5.227453458663007,8.925335848707391
-[15:24:50] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! -2.4506904912004757,-5.448942310437602,9.184599807506515
-[15:24:50] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! -2.4178239833984208,-5.738492209317357,9.4381773204409
-[15:24:50] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! -2.3858053223607385,-6.0,9.68668159033109
-[15:24:50] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! -2.3296963558914285,-6.0,10.131878441251388
-[15:24:50] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! -2.461900458830087,-6.0,10.526395528030207
-[15:24:50] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! -2.6948671306515735,-6.0,10.89379488346242
-[15:24:50] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! -2.9817498440932013,-6.0,11.246684081520243
-[15:24:50] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! -3.2089512160853246,-6.0,11.643611107860579
-[15:24:50] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! -3.4042182921853055,-6.0,12.064101898095373
-[15:24:50] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! -3.583414613317018,-6.0,12.49683836291581
-[15:27:46] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! 7.8479519007460965,0.0,6.860392721938979
-[15:27:46] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! 8.052327420936848,0.0,7.283259316578636
-[15:27:46] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! 8.24346265449472,0.0,7.714588672737506
-[15:27:46] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! 8.427513274658168,0.0,8.15044628385607
-[15:27:46] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! 8.607773059446203,0.0,8.588726873919882
-[15:27:46] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! 8.786004443805979,0.0,9.028303951708324
-[15:27:46] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! 9.050218277298484,0.0,9.412639376057854
-[15:27:46] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! 9.364034606672845,0.0,9.763244030344936
-[15:27:46] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! 9.710233085980377,0.0,10.088552783454531
-[15:27:46] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! 10.082868251081237,0.0,10.387647497532583
-[15:27:46] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! 10.477622647093398,0.0,10.65984872101805
-[15:27:46] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! 10.891028539113108,0.0,10.904848975318345
-[15:27:46] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! 11.252809699990678,0.0,11.206168334962229
-[15:27:46] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! 11.590862770104678,0.0,11.534329689626048
-[15:27:58] [Server thread/WARN]: Horse moved wrongly!
-[15:58:49] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/19131, l='world', x=-104.01, y=71.00, z=-37.05]
-[16:27:51] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/22870, l='world', x=-96.93, y=71.00, z=-37.12]
-[17:03:23] [Server thread/INFO]: gdaddy69 lost connection: Disconnected
-[17:03:23] [Server thread/INFO]: gdaddy69 left the game
-[17:16:16] [User Authenticator #2/INFO]: Disconnecting com.mojang.authlib.GameProfile@f3d161[id=<null>,name=_stealthsniper_,properties={},legacy=false] (/24.188.161.146:51729): Authentication servers are down. Please try again later, sorry!
-[17:16:16] [User Authenticator #2/ERROR]: Couldn't verify username because servers are unavailable
-[17:16:16] [Server thread/INFO]: com.mojang.authlib.GameProfile@f3d161[id=<null>,name=_stealthsniper_,properties={},legacy=false] (/24.188.161.146:51729) lost connection: Authentication servers are down. Please try again later, sorry!
-[17:19:28] [User Authenticator #3/INFO]: UUID of player _stealthsniper_ is 6adeda80-c860-4306-87ec-449530271efa
-[17:19:29] [Server thread/INFO]: _stealthsniper_[/24.188.161.146:51747] logged in with entity id 30125 at (-82.51959208691424, 71.0, -45.58723152925948)
-[17:19:29] [Server thread/INFO]: _stealthsniper_ joined the game
-[17:36:31] [User Authenticator #4/INFO]: UUID of player gdaddy69 is a90499d2-9994-4ae5-aacd-07a3a4e92598
-[17:36:31] [Server thread/INFO]: gdaddy69[/192.168.1.14:5542] logged in with entity id 32759 at (-50.38779106849408, 72.0, -64.21907477812346)
-[17:36:31] [Server thread/INFO]: gdaddy69 joined the game
-[17:38:17] [User Authenticator #5/INFO]: UUID of player maxiieeee is 037404ec-d2e2-4392-90fe-e80f717ddc7c
-[17:38:17] [Server thread/INFO]: maxiieeee[/69.200.237.68:60822] logged in with entity id 32963 at (-95.76657172840277, 71.0, -44.6499298781586)
-[17:38:17] [Server thread/INFO]: maxiieeee joined the game
-[17:42:52] [Server thread/INFO]: maxiieeee lost connection: Disconnected
-[17:42:52] [Server thread/INFO]: maxiieeee left the game
-[17:43:18] [User Authenticator #6/INFO]: UUID of player maxiieeee is 037404ec-d2e2-4392-90fe-e80f717ddc7c
-[17:43:18] [Server thread/INFO]: maxiieeee[/69.200.237.68:60873] logged in with entity id 33818 at (-139.86166206368245, 71.0, -27.521540982218085)
-[17:43:18] [Server thread/INFO]: maxiieeee joined the game
-[17:52:49] [User Authenticator #7/INFO]: UUID of player maxiieeee is 037404ec-d2e2-4392-90fe-e80f717ddc7c
-[17:52:49] [Server thread/INFO]: maxiieeee lost connection: You logged in from another location
-[17:52:49] [Server thread/INFO]: maxiieeee left the game
-[17:52:49] [Server thread/WARN]: handleDisconnection() called twice
-[17:52:49] [Server thread/INFO]: maxiieeee[/69.200.237.68:60947] logged in with entity id 35605 at (-119.47240455579323, 71.0, -22.836369976918697)
-[17:52:49] [Server thread/INFO]: maxiieeee joined the game
-[18:03:37] [Server thread/WARN]: gdaddy69 was kicked for floating too long!
-[18:03:37] [Server thread/INFO]: gdaddy69 lost connection: Flying is not enabled on this server
-[18:03:37] [Server thread/INFO]: gdaddy69 left the game
-[18:03:42] [User Authenticator #8/INFO]: UUID of player gdaddy69 is a90499d2-9994-4ae5-aacd-07a3a4e92598
-[18:03:42] [Server thread/INFO]: gdaddy69[/192.168.1.14:5808] logged in with entity id 37609 at (-76.07829906247599, 70.8500000178814, 178.00676514308395)
-[18:03:42] [Server thread/INFO]: gdaddy69 joined the game
-[18:12:36] [Server thread/WARN]: maxiieeee was kicked for floating too long!
-[18:12:36] [Server thread/INFO]: maxiieeee lost connection: Flying is not enabled on this server
-[18:12:36] [Server thread/INFO]: maxiieeee left the game
-[18:13:20] [User Authenticator #9/INFO]: UUID of player maxiieeee is 037404ec-d2e2-4392-90fe-e80f717ddc7c
-[18:13:20] [Server thread/INFO]: maxiieeee[/69.200.237.68:61012] logged in with entity id 39446 at (-99.98635610316731, 72.00133597911214, -42.802074279349654)
-[18:13:20] [Server thread/INFO]: maxiieeee joined the game
-[18:14:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2322ms or 46 ticks behind
-[18:15:03] [User Authenticator #10/INFO]: UUID of player TigerZuo is 64e2819a-ccdf-41b3-9593-bfda6b714ff1
-[18:15:04] [Server thread/INFO]: TigerZuo[/68.53.31.82:49321] logged in with entity id 39766 at (-57.48857124710614, 72.5, -60.356975853046976)
-[18:15:04] [Server thread/INFO]: TigerZuo joined the game
-[18:17:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[18:18:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2528ms or 50 ticks behind
-[18:18:18] [Server thread/WARN]: gdaddy69 moved wrongly!
-[18:18:40] [Server thread/INFO]: _stealthsniper_ has made the advancement [Enchanter]
-[18:18:47] [User Authenticator #11/INFO]: UUID of player maxiieeee is 037404ec-d2e2-4392-90fe-e80f717ddc7c
-[18:18:47] [Server thread/INFO]: maxiieeee lost connection: You logged in from another location
-[18:18:47] [Server thread/INFO]: maxiieeee left the game
-[18:18:47] [Server thread/INFO]: maxiieeee[/69.200.237.68:61048] logged in with entity id 40917 at (-85.29758956694798, 97.5, -59.94433576288753)
-[18:18:47] [Server thread/INFO]: maxiieeee joined the game
-[18:22:11] [Server thread/WARN]: _stealthsniper_ moved wrongly!
-[18:22:14] [Server thread/WARN]: gdaddy69 moved wrongly!
-[18:22:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2985ms or 59 ticks behind
-[18:22:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3748ms or 74 ticks behind
-[18:22:56] [Server thread/INFO]: maxiieeee lost connection: Disconnected
-[18:22:56] [Server thread/INFO]: maxiieeee left the game
-[18:23:05] [User Authenticator #12/INFO]: UUID of player maxiieeee is 037404ec-d2e2-4392-90fe-e80f717ddc7c
-[18:23:06] [Server thread/INFO]: maxiieeee[/69.200.237.68:61101] logged in with entity id 42818 at (-80.28322177944666, 99.5, -64.4742456567408)
-[18:23:06] [Server thread/INFO]: maxiieeee joined the game
-[18:23:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[18:23:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3508ms or 70 ticks behind
-[18:24:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2360ms or 47 ticks behind
-[18:24:30] [Server thread/INFO]: <_stealthsniper_> 231 / 74 / 102
-[18:25:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2182ms or 43 ticks behind
-[18:25:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
-[18:26:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4146ms or 82 ticks behind
-[18:26:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3665ms or 73 ticks behind
-[18:26:49] [Server thread/INFO]: <_stealthsniper_> 205 / 79 / 426
-[18:26:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
-[18:27:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5732ms or 114 ticks behind
-[18:27:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[18:28:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9259ms or 185 ticks behind
-[18:28:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10457ms or 209 ticks behind
-[18:28:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3634ms or 72 ticks behind
-[18:30:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
-[18:30:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8330ms or 166 ticks behind
-[18:30:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6640ms or 132 ticks behind
-[18:31:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3349ms or 66 ticks behind
-[18:31:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5433ms or 108 ticks behind
-[18:31:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4354ms or 87 ticks behind
-[18:32:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3298ms or 65 ticks behind
-[18:32:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
-[18:32:50] [Server thread/INFO]: _stealthsniper_ lost connection: Disconnected
-[18:32:50] [Server thread/INFO]: _stealthsniper_ left the game
-[18:32:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5555ms or 111 ticks behind
-[18:33:01] [Server thread/INFO]: gdaddy69 lost connection: Disconnected
-[18:33:01] [Server thread/INFO]: gdaddy69 left the game
-[18:33:06] [Server thread/INFO]: TigerZuo lost connection: Timed out
-[18:33:06] [Server thread/INFO]: TigerZuo left the game
-[18:33:18] [User Authenticator #13/INFO]: UUID of player gdaddy69 is a90499d2-9994-4ae5-aacd-07a3a4e92598
-[18:33:18] [Server thread/INFO]: gdaddy69[/192.168.1.14:6077] logged in with entity id 48740 at (269.87285309502766, 88.0, -71.3062155907906)
-[18:33:18] [Server thread/INFO]: gdaddy69 joined the game
-[18:33:18] [User Authenticator #14/INFO]: UUID of player TigerZuo is 64e2819a-ccdf-41b3-9593-bfda6b714ff1
-[18:33:18] [Server thread/INFO]: TigerZuo[/68.53.31.82:50735] logged in with entity id 48766 at (-213.2308809582329, 11.0, -24.652215794534417)
-[18:33:18] [Server thread/INFO]: TigerZuo joined the game
-[18:33:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
-[18:33:43] [User Authenticator #15/INFO]: UUID of player _stealthsniper_ is 6adeda80-c860-4306-87ec-449530271efa
-[18:33:43] [Server thread/INFO]: _stealthsniper_[/24.188.161.146:52304] logged in with entity id 49381 at (142.11867421116813, 75.0, 664.377292641459)
-[18:33:43] [Server thread/INFO]: _stealthsniper_ joined the game
-[18:33:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3798ms or 75 ticks behind
-[18:34:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2887ms or 57 ticks behind
-[18:34:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[18:35:00] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/50025, l='world', x=-104.11, y=71.00, z=-37.49]
-[18:35:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
-[18:35:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3449ms or 68 ticks behind
-[18:35:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[18:36:02] [Server thread/INFO]: maxiieeee has made the advancement [Cover Me With Diamonds]
-[18:36:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2454ms or 49 ticks behind
-[18:36:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2168ms or 43 ticks behind
-[18:36:51] [Server thread/INFO]: <_stealthsniper_> 103 / 71 / 689 <- dark oak + village
-[18:37:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2459ms or 49 ticks behind
-[18:37:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2072ms or 41 ticks behind
-[18:37:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7510ms or 150 ticks behind
-[18:38:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5777ms or 115 ticks behind
-[18:38:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4096ms or 81 ticks behind
-[18:38:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3501ms or 70 ticks behind
-[18:39:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5977ms or 119 ticks behind
-[18:39:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
-[18:40:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[18:40:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5444ms or 108 ticks behind
-[18:40:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4749ms or 94 ticks behind
-[18:41:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4209ms or 84 ticks behind
-[18:41:19] [Server thread/WARN]: Horse moved wrongly!
-[18:41:19] [Server thread/WARN]: Horse moved wrongly!
-[18:41:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4483ms or 89 ticks behind
-[18:41:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5503ms or 110 ticks behind
-[18:41:53] [Server thread/INFO]: maxiieeee lost connection: Timed out
-[18:41:53] [Server thread/INFO]: maxiieeee left the game
-[18:42:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4206ms or 84 ticks behind
-[18:42:26] [Server thread/INFO]: com.mojang.authlib.GameProfile@1b98b66[id=<null>,name=maxiieeee,properties={},legacy=false] (/69.200.237.68:61121) lost connection: Disconnected
-[18:42:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
-[18:42:59] [Server thread/INFO]: com.mojang.authlib.GameProfile@65e86a[id=<null>,name=maxiieeee,properties={},legacy=false] (/69.200.237.68:61134) lost connection: Timed out
-[18:43:04] [Server thread/INFO]: com.mojang.authlib.GameProfile@7cd1f5[id=<null>,name=maxiieeee,properties={},legacy=false] (/69.200.237.68:61149) lost connection: Disconnected
-[18:43:09] [Server thread/WARN]: TigerZuo moved too quickly! 1.0098506190446415,0.0,9.951480367900693
-[18:43:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5336ms or 106 ticks behind
-[18:44:28] [User Authenticator #16/INFO]: UUID of player maxiieeee is 037404ec-d2e2-4392-90fe-e80f717ddc7c
-[18:44:28] [Server thread/INFO]: maxiieeee[/174.197.133.95:9456] logged in with entity id 55839 at (111.52412485209742, 69.0, 325.24001482044247)
-[18:44:28] [Server thread/INFO]: maxiieeee joined the game
-[18:44:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2052ms or 41 ticks behind
-[18:45:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6363ms or 127 ticks behind
-[18:45:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5253ms or 105 ticks behind
-[18:45:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3876ms or 77 ticks behind
-[18:45:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2968ms or 59 ticks behind
-[18:46:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[18:46:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5359ms or 107 ticks behind
-[18:47:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13693ms or 273 ticks behind
-[18:47:13] [Server thread/INFO]: _stealthsniper_ tried to swim in lava
-[18:47:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9655ms or 193 ticks behind
-[18:47:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6536ms or 130 ticks behind
-[18:48:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3536ms or 70 ticks behind
-[18:48:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
-[18:48:41] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/58620, l='world', x=-104.21, y=71.00, z=-35.49]
-[18:49:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2190ms or 43 ticks behind
-[18:50:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
-[18:50:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4173ms or 83 ticks behind
-[18:50:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2766ms or 55 ticks behind
-[18:51:01] [Server thread/INFO]: <gdaddy69> 103/71/689
-[18:52:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[18:52:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3032ms or 60 ticks behind
-[18:52:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2194ms or 43 ticks behind
-[18:53:39] [Server thread/INFO]: maxiieeee has made the advancement [Ol' Betsy]
-[18:53:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2050ms or 41 ticks behind
-[18:54:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7876ms or 157 ticks behind
-[18:54:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
-[18:54:44] [Server thread/WARN]: Boat (vehicle of gdaddy69) moved too quickly! -10.243497650208809,0.0,1.4011863445976118
-[18:54:44] [Server thread/WARN]: Boat (vehicle of gdaddy69) moved too quickly! -10.64026455961195,0.0,1.4482423423990056
-[18:54:44] [Server thread/WARN]: Boat (vehicle of gdaddy69) moved too quickly! -11.037057694446219,0.0,1.4954587158145145
-[18:54:44] [Server thread/WARN]: Boat (vehicle of gdaddy69) moved too quickly! -11.433872096410823,0.0,1.5428384588557122
-[18:54:44] [Server thread/WARN]: Boat (vehicle of gdaddy69) moved too quickly! -11.83070328813406,0.0,1.5903842656672893
-[18:54:44] [Server thread/WARN]: Boat (vehicle of gdaddy69) moved too quickly! -12.227547709368054,0.0,1.6380947532670547
-[18:54:44] [Server thread/WARN]: Boat (vehicle of gdaddy69) moved too quickly! -12.624402148439259,0.0,1.6859686765054107
-[18:54:44] [Server thread/WARN]: Boat (vehicle of gdaddy69) moved too quickly! -13.021264180502811,0.0,1.7340011088980347
-[18:54:44] [Server thread/WARN]: Boat (vehicle of gdaddy69) moved too quickly! -13.418131146361219,0.0,1.7821914210618885
-[18:54:44] [Server thread/WARN]: Boat (vehicle of gdaddy69) moved too quickly! -13.815001602685868,0.0,1.8305314357841596
-[18:54:44] [Server thread/WARN]: Boat (vehicle of gdaddy69) moved too quickly! -14.211873769918583,0.0,1.8790175980262305
-[18:54:44] [Server thread/WARN]: Boat (vehicle of gdaddy69) moved too quickly! -14.60874651956891,0.0,1.9276429033350624
-[18:55:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
-[18:55:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5869ms or 117 ticks behind
-[18:57:04] [Server thread/INFO]: maxiieeee suffocated in a wall
-[18:57:48] [Server thread/INFO]: <maxiieeee> 124/444
-[18:58:49] [Server thread/WARN]: Horse moved wrongly!
-[18:58:49] [Server thread/WARN]: Horse moved wrongly!
-[18:59:03] [Server thread/WARN]: Horse moved wrongly!
-[18:59:03] [Server thread/WARN]: Horse moved wrongly!
-[18:59:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2681ms or 53 ticks behind
-[19:00:20] [Server thread/WARN]: Horse moved wrongly!
-[19:00:20] [Server thread/WARN]: Horse moved wrongly!
-[19:00:20] [Server thread/WARN]: Horse moved wrongly!
-[19:00:52] [Server thread/INFO]: _stealthsniper_ has made the advancement [Cover Me With Diamonds]
-[19:01:01] [Server thread/INFO]: gdaddy69 has made the advancement [Cover Me With Diamonds]
-[19:03:11] [Server thread/WARN]: Horse moved wrongly!
-[19:04:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3806ms or 76 ticks behind
-[19:05:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2386ms or 47 ticks behind
-[19:06:32] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/68759, l='world', x=-95.37, y=71.00, z=-37.03]
-[19:06:32] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/68759, l='world', x=-95.37, y=71.00, z=-37.03]
-[19:07:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
-[19:07:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5542ms or 110 ticks behind
-[19:08:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4213ms or 84 ticks behind
-[19:08:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3321ms or 66 ticks behind
-[19:08:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2414ms or 48 ticks behind
-[19:09:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[19:09:20] [Server thread/INFO]: TigerZuo lost connection: Disconnected
-[19:09:20] [Server thread/INFO]: TigerZuo left the game
-[19:09:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
-[19:09:54] [Server thread/INFO]: gdaddy69 lost connection: Disconnected
-[19:09:54] [Server thread/INFO]: gdaddy69 left the game
-[19:09:57] [User Authenticator #17/INFO]: UUID of player gdaddy69 is a90499d2-9994-4ae5-aacd-07a3a4e92598
-[19:09:58] [Server thread/INFO]: gdaddy69[/192.168.1.14:6287] logged in with entity id 71186 at (233.25715930661073, 62.073264739703426, -61.71608334395902)
-[19:09:58] [Server thread/INFO]: gdaddy69 joined the game
-[19:10:00] [User Authenticator #18/INFO]: UUID of player TigerZuo is 64e2819a-ccdf-41b3-9593-bfda6b714ff1
-[19:10:00] [Server thread/INFO]: TigerZuo[/68.53.31.82:53365] logged in with entity id 71592 at (-268.2346063409532, 19.0, 105.69999998807907)
-[19:10:00] [Server thread/INFO]: TigerZuo joined the game
-[19:10:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2717ms or 54 ticks behind
-[19:10:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5811ms or 116 ticks behind
-[19:10:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[19:12:00] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/72975, l='world', x=-103.87, y=71.00, z=-38.09]
-[19:13:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
-[19:13:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
-[19:13:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6088ms or 121 ticks behind
-[19:14:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
-[19:17:11] [Server thread/WARN]: gdaddy69 moved wrongly!
-[19:18:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
-[19:19:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[19:19:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[19:19:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2935ms or 58 ticks behind
-[19:21:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
-[19:21:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[19:21:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[19:23:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
-[19:23:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2266ms or 45 ticks behind
-[19:26:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[19:35:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
-[19:36:07] [Server thread/WARN]: Boat (vehicle of gdaddy69) moved too quickly! -9.98464905709227,0.0,2.694768446333697
-[19:36:07] [Server thread/WARN]: Boat (vehicle of gdaddy69) moved too quickly! -10.378026005139986,0.0,2.7618089414669384
-[19:36:07] [Server thread/WARN]: Boat (vehicle of gdaddy69) moved too quickly! -10.771759241589052,0.0,2.827083676874267
-[19:36:07] [Server thread/WARN]: Boat (vehicle of gdaddy69) moved too quickly! -11.16582066640251,0.0,2.8907083331124994
-[19:36:39] [Server thread/WARN]: gdaddy69 moved wrongly!
-[19:39:45] [Server thread/WARN]: Boat moved wrongly!
-[19:39:45] [Server thread/WARN]: Boat moved wrongly!
-[19:40:26] [Server thread/WARN]: maxiieeee moved wrongly!
-[19:40:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
-[19:41:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5526ms or 110 ticks behind
-[19:41:16] [Server thread/WARN]: gdaddy69 moved too quickly! 0.5271411285960426,-10.572894103966505,0.13717976075137983
-[19:41:17] [Server thread/INFO]: gdaddy69 fell from a high place
-[19:41:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3111ms or 62 ticks behind
-[19:43:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[19:44:23] [Server thread/INFO]: maxiieeee was slain by Zombie
-[19:44:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[19:45:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
-[19:45:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
-[19:46:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3658ms or 73 ticks behind
-[19:46:34] [Server thread/INFO]: maxiieeee lost connection: Disconnected
-[19:46:34] [Server thread/INFO]: maxiieeee left the game
-[19:46:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5443ms or 108 ticks behind
-[19:47:43] [User Authenticator #19/INFO]: UUID of player maxiieeee is 037404ec-d2e2-4392-90fe-e80f717ddc7c
-[19:47:43] [Server thread/INFO]: maxiieeee[/174.197.133.95:9301] logged in with entity id 92306 at (-47.1659328810309, 69.0, 340.6568894343163)
-[19:47:43] [Server thread/INFO]: maxiieeee joined the game
-[19:48:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
-[19:48:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[19:48:36] [Server thread/INFO]: gdaddy69 fell from a high place
-[19:49:20] [Server thread/INFO]: maxiieeee was shot by Skeleton
-[19:49:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[19:49:51] [Server thread/INFO]: maxiieeee lost connection: Timed out
-[19:49:51] [Server thread/INFO]: maxiieeee left the game
-[19:50:15] [User Authenticator #20/INFO]: UUID of player maxiieeee is 037404ec-d2e2-4392-90fe-e80f717ddc7c
-[19:50:15] [Server thread/INFO]: maxiieeee[/174.197.133.95:9290] logged in with entity id 94391 at (84.40656662676398, 69.79673560066871, 247.50341784157342)
-[19:50:15] [Server thread/INFO]: maxiieeee joined the game
-[19:51:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[19:51:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6182ms or 123 ticks behind
-[19:52:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2561ms or 51 ticks behind
-[19:53:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
-[19:53:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5094ms or 101 ticks behind
-[19:54:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4011ms or 80 ticks behind
-[19:54:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
-[19:54:46] [Server thread/INFO]: gdaddy69 fell from a high place
-[19:55:23] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/97997, l='world', x=-104.15, y=71.00, z=-31.47]
-[19:56:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
-[19:56:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4254ms or 85 ticks behind
-[19:56:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3092ms or 61 ticks behind
-[19:57:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
-[19:57:17] [Server thread/WARN]: _stealthsniper_ moved too quickly! 10.120762869705459,0.243240711822736,-1.4101758027101283
-[19:57:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3860ms or 77 ticks behind
-[19:59:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
-[20:02:23] [Server thread/WARN]: maxiieeee moved too quickly! 0.6969666785002904,0.23152379758701613,-10.043072672382209
-[20:02:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2177ms or 43 ticks behind
-[20:03:14] [Server thread/INFO]: maxiieeee lost connection: Disconnected
-[20:03:14] [Server thread/INFO]: maxiieeee left the game
-[20:04:23] [Server thread/WARN]: gdaddy69 moved wrongly!
-[20:13:05] [User Authenticator #21/INFO]: UUID of player maxiieeee is 037404ec-d2e2-4392-90fe-e80f717ddc7c
-[20:13:05] [Server thread/INFO]: maxiieeee[/174.197.133.95:9301] logged in with entity id 103967 at (-4.071540533730865, 64.0, 33.47386904750175)
-[20:13:05] [Server thread/INFO]: maxiieeee joined the game
-[20:13:27] [Server thread/INFO]: maxiieeee lost connection: Timed out
-[20:13:27] [Server thread/INFO]: maxiieeee left the game
-[20:13:52] [User Authenticator #22/INFO]: UUID of player maxiieeee is 037404ec-d2e2-4392-90fe-e80f717ddc7c
-[20:13:52] [Server thread/INFO]: maxiieeee[/174.197.133.95:9283] logged in with entity id 104209 at (-23.677149146793912, 63.41999998688698, 17.899057311084324)
-[20:13:52] [Server thread/INFO]: maxiieeee joined the game
-[20:14:14] [Server thread/INFO]: maxiieeee lost connection: Timed out
-[20:14:14] [Server thread/INFO]: maxiieeee left the game
-[20:14:19] [User Authenticator #23/INFO]: UUID of player maxiieeee is 037404ec-d2e2-4392-90fe-e80f717ddc7c
-[20:14:19] [Server thread/INFO]: maxiieeee[/174.197.133.95:9308] logged in with entity id 104342 at (-30.86882210953418, 62.216059106235726, 14.663132843583039)
-[20:14:19] [Server thread/INFO]: maxiieeee joined the game
-[20:14:41] [Server thread/INFO]: maxiieeee lost connection: Timed out
-[20:14:41] [Server thread/INFO]: maxiieeee left the game
-[20:15:43] [User Authenticator #24/INFO]: UUID of player maxiieeee is 037404ec-d2e2-4392-90fe-e80f717ddc7c
-[20:15:43] [Server thread/INFO]: maxiieeee[/174.197.133.95:9305] logged in with entity id 104631 at (-33.81663661160288, 62.56862660112275, 7.785340781328893)
-[20:15:43] [Server thread/INFO]: maxiieeee joined the game
-[20:16:27] [Server thread/INFO]: maxiieeee lost connection: Disconnected
-[20:16:27] [Server thread/INFO]: maxiieeee left the game
-[20:18:09] [User Authenticator #25/INFO]: UUID of player maxiieeee is 037404ec-d2e2-4392-90fe-e80f717ddc7c
-[20:18:09] [Server thread/INFO]: maxiieeee[/69.200.237.68:61613] logged in with entity id 105284 at (-33.81663661160288, 62.56862660112275, 7.785340781328893)
-[20:18:09] [Server thread/INFO]: maxiieeee joined the game
-[20:21:23] [Server thread/WARN]: Fetching packet for removed entity awb['Andesite'/106449, l='world', x=-284.88, y=10.00, z=-30.13]
-[20:22:54] [Server thread/INFO]: maxiieeee lost connection: Timed out
-[20:22:54] [Server thread/INFO]: maxiieeee left the game
-[20:22:56] [User Authenticator #26/INFO]: UUID of player maxiieeee is 037404ec-d2e2-4392-90fe-e80f717ddc7c
-[20:22:57] [Server thread/INFO]: maxiieeee[/69.200.237.68:61652] logged in with entity id 107083 at (-50.24810593065636, 67.0, -7.234638911400659)
-[20:22:57] [Server thread/INFO]: maxiieeee joined the game
-[20:28:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[20:35:18] [Server thread/WARN]: Fetching packet for removed entity awb['Dark Oak Log'/111743, l='world', x=-114.95, y=73.00, z=-14.07]
-[20:41:25] [Server thread/WARN]: _stealthsniper_ moved wrongly!
-[20:42:27] [Server thread/WARN]: _stealthsniper_ moved too quickly! -0.0192491645674977,1.1661092609382138,10.220592268311293
-[20:42:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2047ms or 40 ticks behind
-[20:45:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[20:46:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[20:47:34] [Server thread/WARN]: _stealthsniper_ moved too quickly! -9.706562605334156,3.0013359791121417,1.3179819082749873
-[20:47:34] [Server thread/WARN]: gdaddy69 moved too quickly! -9.898124903780584,0.7491326388584127,2.759891109334262
-[20:47:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3253ms or 65 ticks behind
-[20:51:20] [Server thread/INFO]: TigerZuo has made the advancement [Ol' Betsy]
-[20:52:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4256ms or 85 ticks behind
-[20:53:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[20:54:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[20:54:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[20:55:04] [Server thread/INFO]: _stealthsniper_ lost connection: Disconnected
-[20:55:04] [Server thread/INFO]: _stealthsniper_ left the game
-[20:56:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2156ms or 43 ticks behind
-[20:56:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2656ms or 53 ticks behind
-[20:56:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2168ms or 43 ticks behind
-[20:56:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2294ms or 45 ticks behind
-[20:57:58] [Server thread/WARN]: gdaddy69 moved too quickly! 9.964491388919441,1.0,-2.012325653148082
-[20:57:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4605ms or 92 ticks behind
-[21:02:46] [User Authenticator #27/INFO]: UUID of player _stealthsniper_ is 6adeda80-c860-4306-87ec-449530271efa
-[21:02:46] [Server thread/INFO]: _stealthsniper_[/24.188.161.146:53191] logged in with entity id 126113 at (451.0940926147144, 75.0, 1789.0147032230166)
-[21:02:46] [Server thread/INFO]: _stealthsniper_ joined the game
-[21:03:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6228ms or 124 ticks behind
-[21:03:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3216ms or 64 ticks behind
-[21:03:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3208ms or 64 ticks behind
-[21:03:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3924ms or 78 ticks behind
-[21:04:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2254ms or 45 ticks behind
-[21:04:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5564ms or 111 ticks behind
-[21:04:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[21:05:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3021ms or 60 ticks behind
-[21:05:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7084ms or 141 ticks behind
-[21:05:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3273ms or 65 ticks behind
-[21:06:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8128ms or 162 ticks behind
-[21:06:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3764ms or 75 ticks behind
-[21:06:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3663ms or 73 ticks behind
-[21:07:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7548ms or 150 ticks behind
-[21:07:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4133ms or 82 ticks behind
-[21:07:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8714ms or 174 ticks behind
-[21:08:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5057ms or 101 ticks behind
-[21:08:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5771ms or 115 ticks behind
-[21:09:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10640ms or 212 ticks behind
-[21:09:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4277ms or 85 ticks behind
-[21:09:48] [Server thread/WARN]: gdaddy69 moved too quickly! -1.4075165458943957,1.164773281826072,10.060346041139837
-[21:09:48] [Server thread/WARN]: maxiieeee moved wrongly!
-[21:09:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8993ms or 179 ticks behind
-[21:10:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4098ms or 81 ticks behind
-[21:10:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8592ms or 171 ticks behind
-[21:10:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11741ms or 234 ticks behind
-[21:11:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17608ms or 352 ticks behind
-[21:11:38] [Server thread/INFO]: gdaddy69 has made the advancement [Best Friends Forever]
-[21:11:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11332ms or 226 ticks behind
-[21:12:02] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! 9.44851979479563,2.0,3.707454291178692
-[21:12:02] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! 10.015498160725656,2.0,3.6391832207823427
-[21:12:02] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! 10.56281234181779,2.0,3.694208787790103
-[21:12:05] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! -0.9513621263959067,-3.772546541336993,9.677102586605542
-[21:12:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9112ms or 182 ticks behind
-[21:12:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6390ms or 127 ticks behind
-[21:12:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[21:13:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3484ms or 69 ticks behind
-[21:13:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8506ms or 170 ticks behind
-[21:14:00] [Server thread/INFO]: <gdaddy69> 2680, 68, 2319
-[21:14:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8529ms or 170 ticks behind
-[21:14:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2756ms or 55 ticks behind
-[21:14:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7299ms or 145 ticks behind
-[21:15:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11182ms or 223 ticks behind
-[21:15:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6004ms or 120 ticks behind
-[21:15:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9379ms or 187 ticks behind
-[21:16:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6894ms or 137 ticks behind
-[21:16:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12244ms or 244 ticks behind
-[21:17:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10001ms or 200 ticks behind
-[21:17:35] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! -5.317204662209406,0.0,-8.54596428639934
-[21:17:35] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! -5.539201752012104,0.0,-9.060326713851737
-[21:17:35] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! -5.758898653085453,0.0,-9.575777293607189
-[21:17:35] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! -4.455535761047031,0.0,-9.045751071682389
-[21:17:35] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! -4.723316296006942,0.0,-9.53807126439051
-[21:17:35] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! -4.992281653363989,0.0,-10.029746280620657
-[21:17:35] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! -5.262515098188487,0.0,-10.520725753015995
-[21:17:35] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! -5.534082018201389,0.0,-11.010980976054725
-[21:17:35] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! -5.806820295009402,0.0,-11.500580392868414
-[21:17:35] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! -6.080359617624708,0.0,-11.989731104931252
-[21:17:36] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! -4.912533738764523,0.0,-8.810766812530801
-[21:17:36] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! -5.187322171037977,0.0,-9.299217165043046
-[21:17:36] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! -5.462110923380351,0.0,-9.78766733809698
-[21:17:36] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! -5.736899846985125,0.0,-10.276117415126464
-[21:17:36] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! -6.011688862228766,0.0,-10.764567440774954
-[21:17:36] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! -6.286477926506905,0.0,-11.253017438930783
-[21:17:36] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! -6.561114584609186,0.0,-11.741553119986747
-[21:17:36] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! -6.835669693205546,0.0,-12.230134648254534
-[21:17:36] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! -7.10937449364701,0.0,-12.719191917711669
-[21:17:36] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! -7.381662954164767,0.0,-13.209036600190757
-[21:17:36] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! -7.652251887424882,0.0,-13.69981943754101
-[21:17:36] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! -4.841752569329856,0.0,-8.84877521233011
-[21:17:36] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! -5.093997386518367,0.0,-9.349226020155584
-[21:17:36] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! -5.344151327971758,0.0,-9.850725435343065
-[21:17:36] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! -5.592693264090485,0.0,-10.35302837141171
-[21:17:36] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! -5.839384679702562,0.0,-10.856242982287768
-[21:17:36] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! -6.084928555321767,0.0,-11.360021667209367
-[21:17:36] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! -6.329678499203055,0.0,-11.864189194614937
-[21:17:36] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! -6.573688627526735,0.0,-12.368716734846657
-[21:17:36] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! -6.817302895295597,0.0,-12.873436910763758
-[21:17:36] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! -7.060705345974384,0.0,-13.378260162195147
-[21:17:36] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! -7.303994457551198,0.0,-13.883138567279275
-[21:17:36] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! -7.547222923634308,0.0,-14.388046483983544
-[21:17:36] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! -7.790418939523079,0.0,-14.89297019176729
-[21:17:36] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! -8.033597591959733,0.0,-15.397902349042397
-[21:17:36] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! -8.276766953559218,0.0,-15.902839027472055
-[21:17:36] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! -8.519931343817007,0.0,-16.407778125081677
-[21:17:36] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! -8.763093074009248,0.0,-16.912718517146004
-[21:17:36] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! -9.006253380853195,0.0,-17.41765960184739
-[21:17:36] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! -9.249412926091736,0.0,-17.92260105716514
-[21:17:36] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! -9.492572063810712,0.0,-18.42754271079184
-[21:17:36] [Server thread/WARN]: Boat (vehicle of _stealthsniper_) moved too quickly! -2.58128629464386,0.0,10.074559952399795
-[21:17:36] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! -9.735730983473786,0.0,-18.9324844705302
-[21:17:36] [Server thread/WARN]: Boat (vehicle of _stealthsniper_) moved too quickly! -2.6805612924674733,0.0,10.462044614443585
-[21:17:36] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! -9.981023242314677,0.0,-19.436386904546453
-[21:17:36] [Server thread/WARN]: Boat (vehicle of _stealthsniper_) moved too quickly! -2.779836175491255,0.0,10.849529311226433
-[21:17:36] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! -10.232338495310614,0.0,-19.937263469329082
-[21:17:36] [Server thread/WARN]: Boat (vehicle of _stealthsniper_) moved too quickly! -2.879110955195074,0.0,11.237014039274527
-[21:17:36] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! -10.492340399630393,0.0,-20.433601113991244
-[21:17:36] [Server thread/WARN]: Boat (vehicle of _stealthsniper_) moved too quickly! -2.9783856419107906,0.0,11.624498795461477
-[21:17:36] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! -10.761756413913645,0.0,-20.924824311719476
-[21:17:36] [Server thread/WARN]: Boat (vehicle of _stealthsniper_) moved too quickly! -3.077660244937533,0.0,12.011983576973307
-[21:17:36] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! -11.040298196355707,0.0,-21.410900124687032
-[21:17:36] [Server thread/WARN]: Boat (vehicle of _stealthsniper_) moved too quickly! -3.1769347726440174,0.0,12.39946838127753
-[21:17:36] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! -11.32636729007936,0.0,-21.892608344947348
-[21:17:36] [Server thread/WARN]: Boat (vehicle of _stealthsniper_) moved too quickly! -3.2762092325622234,0.0,12.78695320609495
-[21:17:36] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! -11.618920286577122,0.0,-22.370441966205817
-[21:17:36] [Server thread/WARN]: Boat (vehicle of _stealthsniper_) moved too quickly! -3.37548363147107,0.0,13.174438049374203
-[21:17:36] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! -11.916479562993572,0.0,-22.84522075795985
-[21:17:36] [Server thread/WARN]: Boat (vehicle of _stealthsniper_) moved too quickly! -3.474757975471448,0.0,13.561922909269015
-[21:17:36] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! -12.217179416611089,0.0,-23.31806704868586
-[21:17:36] [Server thread/WARN]: Boat (vehicle of _stealthsniper_) moved too quickly! -3.5740322700542038,0.0,13.949407784117739
-[21:17:36] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! -12.519559730472338,-0.07683200149536162,-23.78987929664163
-[21:17:36] [Server thread/WARN]: Boat (vehicle of _stealthsniper_) moved too quickly! -3.673306520161077,0.0,14.336892672425165
-[21:17:36] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! -12.695505589554614,-0.2274534586630068,-24.06421678644074
-[21:17:36] [Server thread/WARN]: Boat (vehicle of _stealthsniper_) moved too quickly! -3.7725807302397243,0.0,14.724377572845242
-[21:17:36] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! -12.866562293154402,-0.4489423104376016,-24.33075112973347
-[21:17:36] [Server thread/WARN]: Boat (vehicle of _stealthsniper_) moved too quickly! -3.8718549042928316,0.0,15.111862484166977
-[21:17:36] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! -13.033258847769048,-0.7384922093173572,-24.590326626771457
-[21:17:36] [Server thread/WARN]: Boat (vehicle of _stealthsniper_) moved too quickly! -3.971129045923135,0.0,15.499347405299886
-[21:17:36] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! -13.196067021407089,-1.0,-24.843696224540963
-[21:17:36] [Server thread/WARN]: Boat (vehicle of _stealthsniper_) moved too quickly! -4.070403158372756,0.0,15.88683233526308
-[21:17:36] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! -13.482741172340866,-1.0,-25.288452863670045
-[21:17:36] [Server thread/WARN]: Boat (vehicle of _stealthsniper_) moved too quickly! -4.169677244559807,0.0,16.274317273173438
-[21:17:36] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! -13.777616612338534,-1.0,-25.745234899103707
-[21:17:36] [Server thread/WARN]: Boat (vehicle of _stealthsniper_) moved too quickly! -4.268951307110683,0.0,16.661802218236517
-[21:17:36] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! -14.07688039859795,-1.0,-26.208451484339093
-[21:17:36] [Server thread/WARN]: Boat (vehicle of _stealthsniper_) moved too quickly! -4.368225348388933,0.0,17.049287169737
-[21:17:36] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! -14.378492301448205,-1.0,-26.675111068882416
-[21:17:36] [Server thread/WARN]: Boat (vehicle of _stealthsniper_) moved too quickly! -4.467499370521637,0.0,17.436772127030963
-[21:17:36] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! -14.681360634669545,-1.0,-27.143612933709846
-[21:17:36] [Server thread/WARN]: Boat (vehicle of _stealthsniper_) moved too quickly! -4.566773375423509,0.0,17.82425708953906
-[21:17:36] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! -14.984607436132137,-1.0,-27.613290271734513
-[21:17:36] [Server thread/WARN]: Boat (vehicle of _stealthsniper_) moved too quickly! -4.666047364817814,0.0,18.211742056739695
-[21:17:36] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! -15.287888754373853,-1.0,-28.08370479894893
-[21:17:36] [Server thread/WARN]: Boat (vehicle of _stealthsniper_) moved too quickly! -4.765321340255014,0.0,18.599227028164023
-[21:17:36] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! -15.590284088831595,-1.0,-28.555093288589887
-[21:17:36] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! 11.669009462481881,0.0,23.582486862118458
-[21:17:36] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! 11.669009462481881,0.0,23.582486862118458
-[21:17:36] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! 16.25640850091122,0.0,31.93187984069982
-[21:17:36] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! 15.95588009667972,0.0,31.45908800544703
-[21:17:36] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! 15.65945144945772,0.0,30.983625147572184
-[21:17:36] [Server thread/WARN]: Boat (vehicle of _stealthsniper_) moved too quickly! -2.5811320268330746,0.0,10.07460663480515
-[21:17:36] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! 15.3689682014965,0.0,30.504489053094403
-[21:17:36] [Server thread/WARN]: Boat (vehicle of _stealthsniper_) moved too quickly! -2.6804059590720044,0.0,10.46209161930119
-[21:17:36] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! 15.08356686318757,0.0,30.022282918700967
-[21:17:36] [Server thread/WARN]: Boat (vehicle of _stealthsniper_) moved too quickly! -2.779679883069548,0.0,10.84957660629152
-[21:17:36] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! 9.225144943090072,0.0,16.671709103213743
-[21:17:36] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! 9.225144943090072,0.0,16.671709103213743
-[21:17:36] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! 9.225144943090072,0.0,16.671709103213743
-[21:17:36] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! 8.942614427076478,0.0,16.1877730786573
-[21:17:36] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! 9.225144943090072,0.0,16.671709103213743
-[21:17:36] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! 9.225144943090072,0.0,16.671709103213743
-[21:17:36] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! 9.225144943090072,0.0,16.671709103213743
-[21:17:36] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! 9.225144943090072,0.0,16.671709103213743
-[21:17:36] [Server thread/WARN]: Boat (vehicle of _stealthsniper_) moved too quickly! -2.8789537996497074,0.0,11.23706159552603
-[21:17:36] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! 8.94415054684896,0.0,16.18684744892107
-[21:17:36] [Server thread/WARN]: Boat (vehicle of _stealthsniper_) moved too quickly! -2.978227709554176,0.0,11.62454658678098
-[21:17:36] [Server thread/WARN]: Horse (vehicle of gdaddy69) moved too quickly! 8.663978097671134,0.0,15.701490508612096
-[21:17:36] [Server thread/WARN]: Boat (vehicle of _stealthsniper_) moved too quickly! -3.0775016134507496,0.0,12.01203157985401
-[21:17:36] [Server thread/WARN]: Boat (vehicle of _stealthsniper_) moved too quickly! -3.17677551194015,0.0,12.399516574563222
-[21:17:36] [Server thread/WARN]: Boat (vehicle of _stealthsniper_) moved too quickly! -3.2760494055630716,0.0,12.787001570744906
-[21:17:36] [Server thread/WARN]: Boat (vehicle of _stealthsniper_) moved too quickly! -3.375323294806094,0.0,13.174486568252178
-[21:17:36] [Server thread/WARN]: Boat (vehicle of _stealthsniper_) moved too quickly! -2.5811319611239014,0.0,10.074606654688978
-[21:17:36] [Server thread/WARN]: Boat (vehicle of _stealthsniper_) moved too quickly! -2.581131958537526,0.0,10.074606655471598
-[21:17:36] [Server thread/WARN]: Boat (vehicle of _stealthsniper_) moved too quickly! -2.68040582931053,0.0,10.462091658567715
-[21:17:36] [Server thread/WARN]: Boat (vehicle of _stealthsniper_) moved too quickly! -2.7796796979887404,0.0,10.84957666229775
-[21:17:36] [Server thread/WARN]: Boat (vehicle of _stealthsniper_) moved too quickly! -2.8789535647815683,0.0,11.237061666598493
-[21:17:36] [Server thread/WARN]: Boat (vehicle of _stealthsniper_) moved too quickly! -2.9782274298775064,0.0,11.624546671412645
-[21:17:36] [Server thread/WARN]: Boat (vehicle of _stealthsniper_) moved too quickly! -3.0775012934461756,0.0,12.01203167668882
-[21:17:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12159ms or 243 ticks behind
-[21:18:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7250ms or 145 ticks behind
-[21:18:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9584ms or 191 ticks behind
-[21:18:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4450ms or 89 ticks behind
-[21:19:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5059ms or 101 ticks behind
-[21:19:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11165ms or 223 ticks behind
-[21:19:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7172ms or 143 ticks behind
-[21:20:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9532ms or 190 ticks behind
-[21:20:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6554ms or 131 ticks behind
-[21:21:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7074ms or 141 ticks behind
-[21:21:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[21:21:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3498ms or 69 ticks behind
-[21:23:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[21:23:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4385ms or 87 ticks behind
-[21:24:31] [Server thread/INFO]: gdaddy69 has made the advancement [We Need to Go Deeper]
-[21:27:16] [Server thread/WARN]: maxiieeee moved wrongly!
-[21:28:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2675ms or 53 ticks behind
-[21:30:18] [Server thread/INFO]: <TigerZuo> -530,48
-[21:31:14] [Server thread/WARN]: Fetching packet for removed entity awb['Netherrack'/143340, l='world', x=158.13, y=43.39, z=191.13]
-[21:34:02] [Server thread/WARN]: maxiieeee moved too quickly! 9.891757250195312,1.1767592750642422,-1.4702502009991605
-[21:34:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2789ms or 55 ticks behind
-[21:39:04] [Server thread/WARN]: TigerZuo moved too quickly! 10.176468157539148,1.0,-0.614246713519023
-[21:39:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2493ms or 49 ticks behind
-[21:41:18] [Server thread/INFO]: <TigerZuo> -19,57,-8
-[21:41:27] [Server thread/INFO]: maxiieeee lost connection: Disconnected
-[21:41:27] [Server thread/INFO]: maxiieeee left the game
-[21:44:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2139ms or 42 ticks behind
-[21:47:06] [Server thread/INFO]: gdaddy69 has made the advancement [Take Aim]
-[21:48:47] [Server thread/INFO]: TigerZuo lost connection: Disconnected
-[21:48:47] [Server thread/INFO]: TigerZuo left the game
+[00:02:30] [Server thread/INFO]: maxiieeee lost connection: Timed out
+[00:02:30] [Server thread/INFO]: maxiieeee left the game
+[00:02:39] [User Authenticator #97/INFO]: UUID of player maxiieeee is 037404ec-d2e2-4392-90fe-e80f717ddc7c
+[00:02:39] [Server thread/INFO]: maxiieeee[/69.200.237.68:58779] logged in with entity id 848196 at (-86.29649123673862, 71.0, -48.3415651909822)
+[00:02:39] [Server thread/INFO]: maxiieeee joined the game
+[00:10:04] [Server thread/WARN]: Fetching packet for removed entity awb['Cobblestone'/852794, l='world', x=-509.80, y=11.00, z=-40.61]
+[00:37:42] [Server thread/INFO]: maxiieeee was shot by _stealthsniper_
+[00:39:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2252ms or 45 ticks behind
+[00:41:12] [Server thread/WARN]: maxiieeee moved too quickly! -10.051723603618825,0.0,-1.4040275685676562
+[00:41:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2799ms or 55 ticks behind
+[00:46:14] [Server thread/WARN]: _stealthsniper_ moved too quickly! 10.21063466121683,0.0,0.20509118718848285
+[00:51:52] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/874766, l='world', x=-103.83, y=71.00, z=-36.73]
+[00:51:52] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/874766, l='world', x=-103.83, y=71.00, z=-36.73]
+[00:55:08] [Server thread/INFO]: TigerZuo has made the advancement [Cover Me With Diamonds]
+[01:12:32] [Server thread/INFO]: maxiieeee lost connection: Timed out
+[01:12:32] [Server thread/INFO]: maxiieeee left the game
+[01:15:53] [Server thread/INFO]: com.mojang.authlib.GameProfile@15522bf[id=<null>,name=maxiieeee,properties={},legacy=false] (/69.200.237.68:58955) lost connection: Disconnected
+[01:16:01] [Server thread/INFO]: com.mojang.authlib.GameProfile@f5c5ea[id=<null>,name=maxiieeee,properties={},legacy=false] (/69.200.237.68:58958) lost connection: Disconnected
+[01:18:16] [User Authenticator #98/INFO]: UUID of player maxiieeee is 037404ec-d2e2-4392-90fe-e80f717ddc7c
+[01:18:16] [Server thread/INFO]: maxiieeee[/69.200.237.68:59068] logged in with entity id 887090 at (-50.69206845121862, 57.0, -68.5995245525285)
+[01:18:16] [Server thread/INFO]: maxiieeee joined the game
+[01:19:50] [Server thread/INFO]: maxiieeee has made the advancement [Take Aim]
+[01:20:06] [Server thread/INFO]: <TigerZuo> nigger
+[01:20:36] [Server thread/INFO]: <_stealthsniper_> tiger hates niggers
+[01:21:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[01:22:21] [User Authenticator #99/INFO]: UUID of player maxiieeee is 037404ec-d2e2-4392-90fe-e80f717ddc7c
+[01:22:22] [Server thread/INFO]: maxiieeee lost connection: You logged in from another location
+[01:22:22] [Server thread/INFO]: maxiieeee left the game
+[01:22:22] [Server thread/INFO]: maxiieeee[/69.200.237.68:59108] logged in with entity id 889543 at (-50.85116336288216, 72.0, -63.09929516998493)
+[01:22:22] [Server thread/INFO]: maxiieeee joined the game
+[01:25:40] [Server thread/WARN]: TigerZuo moved wrongly!
+[01:27:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[01:27:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9690ms or 193 ticks behind
+[01:27:48] [User Authenticator #100/INFO]: UUID of player gdaddy69 is a90499d2-9994-4ae5-aacd-07a3a4e92598
+[01:27:48] [Server thread/INFO]: gdaddy69[/192.168.1.14:21094] logged in with entity id 892501 at (-44.02787336484048, 72.0, -63.92410571430088)
+[01:27:49] [Server thread/INFO]: gdaddy69 joined the game
+[01:30:13] [Server thread/WARN]: Fetching packet for removed entity awb['Cactus'/893227, l='world', x=-106.88, y=74.83, z=-56.14]
+[01:46:28] [Server thread/WARN]: maxiieeee moved too quickly! -10.187012783534442,-0.7539862017387549,-1.6521298611114332
+[01:46:28] [Server thread/WARN]: TigerZuo moved too quickly! -10.062608094021584,1.6709083839322858,1.1685104519121978
+[01:46:28] [Server thread/WARN]: gdaddy69 moved too quickly! -9.985318235223303,-0.5800000131130219,-2.3290466117585993
+[01:46:28] [Server thread/WARN]: _stealthsniper_ moved too quickly! -9.805586589447103,-1.0,-1.8212693184254931
+[01:46:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2482ms or 49 ticks behind
+[01:51:30] [Server thread/WARN]: gdaddy69 moved wrongly!
+[01:54:02] [Server thread/INFO]: _stealthsniper_ has made the advancement [Eye Spy]
+[01:54:04] [Server thread/INFO]: TigerZuo has made the advancement [Eye Spy]
+[01:54:07] [Server thread/INFO]: maxiieeee fell from a high place
+[01:54:12] [Server thread/INFO]: gdaddy69 has made the advancement [Eye Spy]
+[01:55:36] [Server thread/INFO]: [gdaddy69: Teleported maxiieeee to -1454.35, 39.0, -233.13]
+[01:55:36] [Server thread/INFO]: maxiieeee has made the advancement [Eye Spy]
+[02:09:22] [Server thread/INFO]: <gdaddy69> -1527, 24, -230
+[02:10:28] [Server thread/INFO]: <gdaddy69> -1526, 30, -255
+[02:15:40] [Server thread/INFO]: <TigerZuo> -1476,10
+[02:15:53] [Server thread/INFO]: <TigerZuo> -228
+[02:21:52] [Server thread/INFO]: maxiieeee burned to death
+[02:22:46] [Server thread/INFO]: maxiieeee lost connection: Disconnected
+[02:22:46] [Server thread/INFO]: maxiieeee left the game
+[02:26:25] [Server thread/INFO]: <gdaddy69> -1480, 32, -267
+[02:31:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2069ms or 41 ticks behind
+[02:32:22] [User Authenticator #101/INFO]: UUID of player maxiieeee is 037404ec-d2e2-4392-90fe-e80f717ddc7c
+[02:32:22] [Server thread/INFO]: maxiieeee[/69.200.237.68:59782] logged in with entity id 915381 at (-36.51220689265832, 72.5, -63.48606919649832)
+[02:32:22] [Server thread/INFO]: maxiieeee joined the game
+[02:34:35] [Server thread/INFO]: <gdaddy69> O O O
+[02:34:39] [Server thread/INFO]: <gdaddy69> X O X
+[02:34:43] [Server thread/INFO]: <gdaddy69> O X O
+[02:35:40] [Server thread/INFO]: gdaddy69 tried to swim in lava
+[02:36:32] [Server thread/WARN]: TigerZuo moved too quickly! -0.02241994384280588,-0.2468000194787976,-10.178976359109129
+[02:36:32] [Server thread/WARN]: gdaddy69 moved too quickly! 9.999148127899332,-0.504799122994072,-1.088801057212791
+[02:37:35] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/918096, l='world', x=-103.52, y=71.00, z=-32.94]
+[02:37:35] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/918096, l='world', x=-103.52, y=71.00, z=-32.94]
+[02:37:50] [Server thread/INFO]: <gdaddy69> -169, 96, -15
+[02:39:20] [Server thread/INFO]: maxiieeee has made the advancement [We Need to Go Deeper]
+[02:40:46] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-128, y=94, z=-13} fk{x=-116, y=78, z=-25}
+[02:40:46] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-128, y=94, z=-13} fk{x=-116, y=78, z=-25}
+[02:40:48] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-114, y=75, z=-25} fk{x=-115, y=75, z=-25}
+[02:41:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2110ms or 42 ticks behind
+[02:42:15] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-112, y=66, z=-15} fk{x=-112, y=60, z=-8}
+[02:42:15] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-112, y=66, z=-15} fk{x=-112, y=60, z=-8}
+[02:42:15] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-112, y=66, z=-15} fk{x=-112, y=60, z=-8}
+[02:49:27] [Server thread/INFO]: gdaddy69 tried to swim in lava
+[02:49:31] [Server thread/INFO]: maxiieeee tried to swim in lava
+[02:51:34] [Server thread/WARN]: gdaddy69 moved too quickly! 9.720297956721048,0.6661092609382138,-2.7337580799671954
+[03:08:33] [Server thread/INFO]: gdaddy69 burned to death
+[03:27:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[03:29:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[03:31:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[03:31:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4794ms or 95 ticks behind
+[03:32:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[03:34:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[03:36:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3116ms or 62 ticks behind
+[03:37:04] [Server thread/WARN]: Fetching packet for removed entity awb['Stick'/942851, l='world', x=-1468.80, y=80.04, z=-283.38]
+[03:42:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[03:43:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[03:46:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2527ms or 50 ticks behind
+[03:51:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2866ms or 57 ticks behind
+[03:53:47] [Server thread/INFO]: <_stealthsniper_> wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+[03:54:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[03:54:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3443ms or 68 ticks behind
+[03:55:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2803ms or 56 ticks behind
+[03:55:22] [Server thread/INFO]: TigerZuo lost connection: Disconnected
+[03:55:22] [Server thread/INFO]: TigerZuo left the game
+[03:58:58] [Server thread/INFO]: [gdaddy69: Set _stealthsniper_'s game mode to Spectator Mode]
+[04:01:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[04:02:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2469ms or 49 ticks behind
+[04:02:15] [Server thread/WARN]: _stealthsniper_ moved too quickly! -0.10445624929957376,0.18779019360900406,-10.090150406113821
+[04:02:15] [Server thread/WARN]: gdaddy69 moved too quickly! 6.2827833250319145,-1.044812420399012,7.936405186862942
+[04:02:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3134ms or 62 ticks behind
+[04:06:44] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 209bf1e4-d737-4470-91ca-db848deb8855
+[04:07:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2714ms or 54 ticks behind
+[04:19:42] [Server thread/INFO]: [gdaddy69: Set _stealthsniper_'s game mode to Survival Mode]
+[04:20:07] [Server thread/INFO]: _stealthsniper_ lost connection: Disconnected
+[04:20:07] [Server thread/INFO]: _stealthsniper_ left the game
