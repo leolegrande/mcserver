@@ -1,111 +1,62 @@
-[00:02:30] [Server thread/INFO]: maxiieeee lost connection: Timed out
-[00:02:30] [Server thread/INFO]: maxiieeee left the game
-[00:02:39] [User Authenticator #97/INFO]: UUID of player maxiieeee is 037404ec-d2e2-4392-90fe-e80f717ddc7c
-[00:02:39] [Server thread/INFO]: maxiieeee[/69.200.237.68:58779] logged in with entity id 848196 at (-86.29649123673862, 71.0, -48.3415651909822)
-[00:02:39] [Server thread/INFO]: maxiieeee joined the game
-[00:10:04] [Server thread/WARN]: Fetching packet for removed entity awb['Cobblestone'/852794, l='world', x=-509.80, y=11.00, z=-40.61]
-[00:37:42] [Server thread/INFO]: maxiieeee was shot by _stealthsniper_
-[00:39:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2252ms or 45 ticks behind
-[00:41:12] [Server thread/WARN]: maxiieeee moved too quickly! -10.051723603618825,0.0,-1.4040275685676562
-[00:41:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2799ms or 55 ticks behind
-[00:46:14] [Server thread/WARN]: _stealthsniper_ moved too quickly! 10.21063466121683,0.0,0.20509118718848285
-[00:51:52] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/874766, l='world', x=-103.83, y=71.00, z=-36.73]
-[00:51:52] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/874766, l='world', x=-103.83, y=71.00, z=-36.73]
-[00:55:08] [Server thread/INFO]: TigerZuo has made the advancement [Cover Me With Diamonds]
-[01:12:32] [Server thread/INFO]: maxiieeee lost connection: Timed out
-[01:12:32] [Server thread/INFO]: maxiieeee left the game
-[01:15:53] [Server thread/INFO]: com.mojang.authlib.GameProfile@15522bf[id=<null>,name=maxiieeee,properties={},legacy=false] (/69.200.237.68:58955) lost connection: Disconnected
-[01:16:01] [Server thread/INFO]: com.mojang.authlib.GameProfile@f5c5ea[id=<null>,name=maxiieeee,properties={},legacy=false] (/69.200.237.68:58958) lost connection: Disconnected
-[01:18:16] [User Authenticator #98/INFO]: UUID of player maxiieeee is 037404ec-d2e2-4392-90fe-e80f717ddc7c
-[01:18:16] [Server thread/INFO]: maxiieeee[/69.200.237.68:59068] logged in with entity id 887090 at (-50.69206845121862, 57.0, -68.5995245525285)
-[01:18:16] [Server thread/INFO]: maxiieeee joined the game
-[01:19:50] [Server thread/INFO]: maxiieeee has made the advancement [Take Aim]
-[01:20:06] [Server thread/INFO]: <TigerZuo> nigger
-[01:20:36] [Server thread/INFO]: <_stealthsniper_> tiger hates niggers
-[01:21:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[01:22:21] [User Authenticator #99/INFO]: UUID of player maxiieeee is 037404ec-d2e2-4392-90fe-e80f717ddc7c
-[01:22:22] [Server thread/INFO]: maxiieeee lost connection: You logged in from another location
-[01:22:22] [Server thread/INFO]: maxiieeee left the game
-[01:22:22] [Server thread/INFO]: maxiieeee[/69.200.237.68:59108] logged in with entity id 889543 at (-50.85116336288216, 72.0, -63.09929516998493)
-[01:22:22] [Server thread/INFO]: maxiieeee joined the game
-[01:25:40] [Server thread/WARN]: TigerZuo moved wrongly!
-[01:27:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
-[01:27:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9690ms or 193 ticks behind
-[01:27:48] [User Authenticator #100/INFO]: UUID of player gdaddy69 is a90499d2-9994-4ae5-aacd-07a3a4e92598
-[01:27:48] [Server thread/INFO]: gdaddy69[/192.168.1.14:21094] logged in with entity id 892501 at (-44.02787336484048, 72.0, -63.92410571430088)
-[01:27:49] [Server thread/INFO]: gdaddy69 joined the game
-[01:30:13] [Server thread/WARN]: Fetching packet for removed entity awb['Cactus'/893227, l='world', x=-106.88, y=74.83, z=-56.14]
-[01:46:28] [Server thread/WARN]: maxiieeee moved too quickly! -10.187012783534442,-0.7539862017387549,-1.6521298611114332
-[01:46:28] [Server thread/WARN]: TigerZuo moved too quickly! -10.062608094021584,1.6709083839322858,1.1685104519121978
-[01:46:28] [Server thread/WARN]: gdaddy69 moved too quickly! -9.985318235223303,-0.5800000131130219,-2.3290466117585993
-[01:46:28] [Server thread/WARN]: _stealthsniper_ moved too quickly! -9.805586589447103,-1.0,-1.8212693184254931
-[01:46:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2482ms or 49 ticks behind
-[01:51:30] [Server thread/WARN]: gdaddy69 moved wrongly!
-[01:54:02] [Server thread/INFO]: _stealthsniper_ has made the advancement [Eye Spy]
-[01:54:04] [Server thread/INFO]: TigerZuo has made the advancement [Eye Spy]
-[01:54:07] [Server thread/INFO]: maxiieeee fell from a high place
-[01:54:12] [Server thread/INFO]: gdaddy69 has made the advancement [Eye Spy]
-[01:55:36] [Server thread/INFO]: [gdaddy69: Teleported maxiieeee to -1454.35, 39.0, -233.13]
-[01:55:36] [Server thread/INFO]: maxiieeee has made the advancement [Eye Spy]
-[02:09:22] [Server thread/INFO]: <gdaddy69> -1527, 24, -230
-[02:10:28] [Server thread/INFO]: <gdaddy69> -1526, 30, -255
-[02:15:40] [Server thread/INFO]: <TigerZuo> -1476,10
-[02:15:53] [Server thread/INFO]: <TigerZuo> -228
-[02:21:52] [Server thread/INFO]: maxiieeee burned to death
-[02:22:46] [Server thread/INFO]: maxiieeee lost connection: Disconnected
-[02:22:46] [Server thread/INFO]: maxiieeee left the game
-[02:26:25] [Server thread/INFO]: <gdaddy69> -1480, 32, -267
-[02:31:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2069ms or 41 ticks behind
-[02:32:22] [User Authenticator #101/INFO]: UUID of player maxiieeee is 037404ec-d2e2-4392-90fe-e80f717ddc7c
-[02:32:22] [Server thread/INFO]: maxiieeee[/69.200.237.68:59782] logged in with entity id 915381 at (-36.51220689265832, 72.5, -63.48606919649832)
-[02:32:22] [Server thread/INFO]: maxiieeee joined the game
-[02:34:35] [Server thread/INFO]: <gdaddy69> O O O
-[02:34:39] [Server thread/INFO]: <gdaddy69> X O X
-[02:34:43] [Server thread/INFO]: <gdaddy69> O X O
-[02:35:40] [Server thread/INFO]: gdaddy69 tried to swim in lava
-[02:36:32] [Server thread/WARN]: TigerZuo moved too quickly! -0.02241994384280588,-0.2468000194787976,-10.178976359109129
-[02:36:32] [Server thread/WARN]: gdaddy69 moved too quickly! 9.999148127899332,-0.504799122994072,-1.088801057212791
-[02:37:35] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/918096, l='world', x=-103.52, y=71.00, z=-32.94]
-[02:37:35] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/918096, l='world', x=-103.52, y=71.00, z=-32.94]
-[02:37:50] [Server thread/INFO]: <gdaddy69> -169, 96, -15
-[02:39:20] [Server thread/INFO]: maxiieeee has made the advancement [We Need to Go Deeper]
-[02:40:46] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-128, y=94, z=-13} fk{x=-116, y=78, z=-25}
-[02:40:46] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-128, y=94, z=-13} fk{x=-116, y=78, z=-25}
-[02:40:48] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-114, y=75, z=-25} fk{x=-115, y=75, z=-25}
-[02:41:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2110ms or 42 ticks behind
-[02:42:15] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-112, y=66, z=-15} fk{x=-112, y=60, z=-8}
-[02:42:15] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-112, y=66, z=-15} fk{x=-112, y=60, z=-8}
-[02:42:15] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-112, y=66, z=-15} fk{x=-112, y=60, z=-8}
-[02:49:27] [Server thread/INFO]: gdaddy69 tried to swim in lava
-[02:49:31] [Server thread/INFO]: maxiieeee tried to swim in lava
-[02:51:34] [Server thread/WARN]: gdaddy69 moved too quickly! 9.720297956721048,0.6661092609382138,-2.7337580799671954
-[03:08:33] [Server thread/INFO]: gdaddy69 burned to death
-[03:27:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[03:29:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[03:31:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
-[03:31:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4794ms or 95 ticks behind
-[03:32:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
-[03:34:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
-[03:36:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3116ms or 62 ticks behind
-[03:37:04] [Server thread/WARN]: Fetching packet for removed entity awb['Stick'/942851, l='world', x=-1468.80, y=80.04, z=-283.38]
-[03:42:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[03:43:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
-[03:46:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2527ms or 50 ticks behind
-[03:51:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2866ms or 57 ticks behind
-[03:53:47] [Server thread/INFO]: <_stealthsniper_> wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
-[03:54:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
-[03:54:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3443ms or 68 ticks behind
-[03:55:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2803ms or 56 ticks behind
-[03:55:22] [Server thread/INFO]: TigerZuo lost connection: Disconnected
-[03:55:22] [Server thread/INFO]: TigerZuo left the game
-[03:58:58] [Server thread/INFO]: [gdaddy69: Set _stealthsniper_'s game mode to Spectator Mode]
-[04:01:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[04:02:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2469ms or 49 ticks behind
-[04:02:15] [Server thread/WARN]: _stealthsniper_ moved too quickly! -0.10445624929957376,0.18779019360900406,-10.090150406113821
-[04:02:15] [Server thread/WARN]: gdaddy69 moved too quickly! 6.2827833250319145,-1.044812420399012,7.936405186862942
-[04:02:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3134ms or 62 ticks behind
-[04:06:44] [Server thread/WARN]: Keeping entity minecraft:sheep that already exists with UUID 209bf1e4-d737-4470-91ca-db848deb8855
-[04:07:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2714ms or 54 ticks behind
-[04:19:42] [Server thread/INFO]: [gdaddy69: Set _stealthsniper_'s game mode to Survival Mode]
-[04:20:07] [Server thread/INFO]: _stealthsniper_ lost connection: Disconnected
-[04:20:07] [Server thread/INFO]: _stealthsniper_ left the game
+[00:05:55] [Server thread/WARN]: Fetching packet for removed entity awb['Cactus'/111059, l='world', x=-106.47, y=67.94, z=-56.32]
+[00:08:49] [Server thread/INFO]: TigerZuo has made the advancement [What a Deal!]
+[00:12:02] [Server thread/INFO]: TigerZuo lost connection: Disconnected
+[00:12:02] [Server thread/INFO]: TigerZuo left the game
+[00:12:02] [Server thread/INFO]: _stealthsniper_ lost connection: Disconnected
+[00:12:02] [Server thread/INFO]: _stealthsniper_ left the game
+[00:12:28] [User Authenticator #17/INFO]: UUID of player TigerZuo is 64e2819a-ccdf-41b3-9593-bfda6b714ff1
+[00:12:28] [Server thread/INFO]: TigerZuo[/68.53.31.82:61111] logged in with entity id 114171 at (-152.87579474290027, 72.0, -25.96095220005624)
+[00:12:28] [Server thread/INFO]: TigerZuo joined the game
+[00:12:45] [User Authenticator #18/INFO]: UUID of player _stealthsniper_ is 6adeda80-c860-4306-87ec-449530271efa
+[00:12:45] [Server thread/INFO]: _stealthsniper_[/24.188.161.146:55499] logged in with entity id 114333 at (-70.60617764201285, 72.0, -60.711901634838945)
+[00:12:45] [Server thread/INFO]: _stealthsniper_ joined the game
+[00:13:22] [Server thread/WARN]: Fetching packet for removed entity awb['Bamboo'/114641, l='world', x=-108.87, y=73.00, z=-57.13]
+[00:13:23] [Server thread/WARN]: Fetching packet for removed entity awb['Bamboo'/114646, l='world', x=-108.25, y=72.69, z=-57.75]
+[00:34:44] [Server thread/INFO]: gdaddy69 lost connection: Disconnected
+[00:34:44] [Server thread/INFO]: gdaddy69 left the game
+[01:05:58] [Server thread/INFO]: _stealthsniper_ lost connection: Disconnected
+[01:05:58] [Server thread/INFO]: _stealthsniper_ left the game
+[01:59:14] [Server thread/INFO]: TigerZuo was shot by Skeleton
+[11:08:22] [Server thread/INFO]: TigerZuo lost connection: Disconnected
+[11:08:22] [Server thread/INFO]: TigerZuo left the game
+[11:53:34] [Server thread/INFO]: com.mojang.authlib.GameProfile@1e59eef[id=<null>,name=TigerZuo,properties={},legacy=false] (/68.53.31.82:59233) lost connection: Disconnected
+[11:53:36] [User Authenticator #19/INFO]: UUID of player TigerZuo is 64e2819a-ccdf-41b3-9593-bfda6b714ff1
+[11:53:37] [Server thread/INFO]: TigerZuo[/68.53.31.82:59278] logged in with entity id 161172 at (-101.69999998807907, 70.5, -57.896010718628844)
+[11:53:37] [Server thread/INFO]: TigerZuo joined the game
+[11:53:37] [Server thread/WARN]: Fetching packet for removed entity awb['Cactus'/161167, l='world', x=-106.88, y=74.94, z=-56.14]
+[12:14:40] [Server thread/INFO]: TigerZuo lost connection: Disconnected
+[12:14:40] [Server thread/INFO]: TigerZuo left the game
+[13:07:02] [User Authenticator #20/INFO]: UUID of player gdaddy69 is a90499d2-9994-4ae5-aacd-07a3a4e92598
+[13:07:02] [Server thread/INFO]: gdaddy69[/192.168.1.14:32158] logged in with entity id 170521 at (-120.30152304195155, 71.0, -26.02686315819996)
+[13:07:02] [Server thread/INFO]: gdaddy69 joined the game
+[13:12:28] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/173347, l='world', x=-104.53, y=71.00, z=-37.21]
+[14:11:50] [Server thread/WARN]: Fetching packet for removed entity awb['Cactus'/201068, l='world', x=-106.88, y=74.86, z=-56.14]
+[14:11:51] [Server thread/WARN]: Fetching packet for removed entity awb['Bamboo'/201075, l='world', x=-108.91, y=73.00, z=-57.51]
+[14:24:09] [Server thread/WARN]: Fetching packet for removed entity awb['Bamboo'/206898, l='world', x=-108.19, y=66.00, z=-57.13]
+[15:22:21] [User Authenticator #21/INFO]: UUID of player TigerZuo is 64e2819a-ccdf-41b3-9593-bfda6b714ff1
+[15:22:21] [Server thread/INFO]: TigerZuo[/68.53.31.82:50347] logged in with entity id 232894 at (-99.30000001192093, 64.0, -59.23200101084476)
+[15:22:21] [Server thread/INFO]: TigerZuo joined the game
+[15:23:10] [Server thread/INFO]: <gdaddy69> disc?
+[15:23:33] [Server thread/INFO]: <TigerZuo> nah I was planning on just afking and doing some work
+[15:23:36] [Server thread/INFO]: <gdaddy69> kk
+[15:23:41] [Server thread/INFO]: <gdaddy69> i'm gonna shut down the server tho lol
+[15:23:45] [Server thread/INFO]: <gdaddy69> in like 20 minutes
+[15:23:48] [Server thread/INFO]: <gdaddy69> cuz i gotta work on zoom
+[15:24:15] [Server thread/INFO]: <TigerZuo> aight all good
+[15:25:30] [Server thread/INFO]: TigerZuo lost connection: Disconnected
+[15:25:30] [Server thread/INFO]: TigerZuo left the game
+[15:42:20] [Server thread/INFO]: gdaddy69 lost connection: Disconnected
+[15:42:20] [Server thread/INFO]: gdaddy69 left the game
+[15:42:27] [Server thread/INFO]: Stopping the server
+[15:42:28] [Server thread/INFO]: Stopping server
+[15:42:28] [Server thread/INFO]: Saving players
+[15:42:28] [Server thread/INFO]: Saving worlds
+[15:42:28] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[15:42:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:42:28] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[15:42:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:42:28] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[15:42:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:42:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:42:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:42:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved

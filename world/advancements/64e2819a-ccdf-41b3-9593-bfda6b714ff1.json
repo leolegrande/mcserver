@@ -278,6 +278,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2020-06-09 00:08:32 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2020-06-03 23:34:26 -0400"
@@ -609,6 +615,7 @@
       "minecraft:magma_cube": "2020-06-05 22:50:10 -0400",
       "minecraft:spider": "2020-06-04 00:32:42 -0400",
       "minecraft:creeper": "2020-06-03 23:47:11 -0400",
+      "minecraft:slime": "2020-06-08 20:20:00 -0400",
       "minecraft:phantom": "2020-06-05 21:35:58 -0400",
       "minecraft:witch": "2020-06-05 19:03:41 -0400",
       "minecraft:wither_skeleton": "2020-06-05 22:42:09 -0400",
@@ -769,6 +776,12 @@
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
       "has_porkchop": "2020-06-04 23:39:45 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2020-06-09 00:24:56 -0400"
     },
     "done": true
   },
@@ -1150,6 +1163,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2020-06-08 20:20:06 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2020-06-03 23:38:14 -0400"
@@ -1183,6 +1202,7 @@
       "minecraft:wooded_mountains": "2020-06-05 23:38:56 -0400",
       "minecraft:wooded_hills": "2020-06-04 23:49:45 -0400",
       "minecraft:stone_shore": "2020-06-05 23:14:51 -0400",
+      "minecraft:swamp": "2020-06-08 20:12:00 -0400",
       "minecraft:savanna": "2020-06-03 23:29:47 -0400",
       "minecraft:plains": "2020-06-05 00:08:00 -0400"
     },
@@ -2099,6 +2119,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2020-06-09 00:24:56 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2020-06-04 22:10:11 -0400"
@@ -2147,9 +2173,21 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2020-06-09 00:08:49 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2020-06-03 23:50:15 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2020-06-09 00:24:56 -0400"
     },
     "done": true
   },
@@ -2174,6 +2212,12 @@
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2020-06-04 23:02:36 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2020-06-08 20:20:06 -0400"
     },
     "done": true
   },
@@ -2477,6 +2521,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2020-06-08 22:24:13 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2020-06-03 23:50:15 -0400"
@@ -2510,6 +2560,12 @@
   "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2020-06-06 00:14:39 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2020-06-08 20:20:06 -0400"
     },
     "done": true
   },

@@ -1147,6 +1147,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2020-06-09 00:19:28 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_wood": {
     "criteria": {
       "has_log": "2020-06-03 23:26:53 -0400"
@@ -1234,6 +1240,12 @@
   "minecraft:recipes/building_blocks/sea_lantern": {
     "criteria": {
       "has_prismarine_crystals": "2020-06-05 01:03:12 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_log": "2020-06-09 00:19:28 -0400"
     },
     "done": true
   },
@@ -1831,6 +1843,12 @@
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2020-06-05 00:42:35 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2020-06-08 07:21:05 -0400"
     },
     "done": true
   },
@@ -3387,6 +3405,12 @@
   "minecraft:recipes/transportation/rail": {
     "criteria": {
       "has_the_recipe": "2020-06-06 22:17:34 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2020-06-08 21:14:40 -0400"
     },
     "done": true
   },
