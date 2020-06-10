@@ -1,0 +1,51 @@
+[00:08:22] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[00:08:22] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[00:08:22] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[00:08:22] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[00:08:22] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[00:08:22] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[00:08:22] [Server thread/INFO]: Loading properties
+[00:08:22] [Server thread/INFO]: Default game type: SURVIVAL
+[00:08:22] [Server thread/INFO]: Generating keypair
+[00:08:22] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:08:22] [Server thread/INFO]: Using default channel type
+[00:08:23] [Server thread/INFO]: Preparing level "world"
+[00:08:23] [Server thread/INFO]: Reloading ResourceManager: Default
+[00:08:24] [Server thread/INFO]: Loaded 6 recipes
+[00:08:24] [Server thread/INFO]: Loaded 825 advancements
+[00:08:25] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:08:27] [Server thread/INFO]: Preparing spawn area: 0%
+[00:08:27] [Server thread/INFO]: Preparing spawn area: 0%
+[00:08:27] [Server thread/INFO]: Preparing spawn area: 0%
+[00:08:27] [Server thread/INFO]: Preparing spawn area: 0%
+[00:08:34] [Server-Worker-5/INFO]: Preparing spawn area: 0%
+[00:08:34] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[00:08:34] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[00:08:34] [Server-Worker-5/INFO]: Preparing spawn area: 0%
+[00:08:34] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[00:08:34] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[00:08:34] [Server-Worker-5/INFO]: Preparing spawn area: 0%
+[00:08:34] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[00:08:34] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[00:08:34] [Server-Worker-5/INFO]: Preparing spawn area: 0%
+[00:08:34] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[00:08:34] [Server-Worker-4/INFO]: Preparing spawn area: 0%
+[00:08:34] [Server-Worker-5/INFO]: Preparing spawn area: 0%
+[00:08:34] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[00:08:34] [Server-Worker-6/INFO]: Preparing spawn area: 0%
+[00:08:34] [Server thread/INFO]: Time elapsed: 9252 ms
+[00:08:34] [Server thread/INFO]: Done (11.355s)! For help, type "help"
+[00:08:37] [User Authenticator #1/INFO]: UUID of player maxiieeee is 037404ec-d2e2-4392-90fe-e80f717ddc7c
+[00:08:37] [Server thread/INFO]: maxiieeee[/108.28.3.17:64703] logged in with entity id 279 at (-60.13900005732154, 77.0, -72.90731565796003)
+[00:08:37] [Server thread/INFO]: maxiieeee joined the game
+[00:08:42] [User Authenticator #2/INFO]: UUID of player TigerZuo is 64e2819a-ccdf-41b3-9593-bfda6b714ff1
+[00:08:42] [Server thread/INFO]: TigerZuo[/68.53.31.82:62419] logged in with entity id 324 at (-59.57821612509673, 73.0, -60.406536647747615)
+[00:08:42] [Server thread/INFO]: TigerZuo joined the game
+[00:08:52] [User Authenticator #3/INFO]: UUID of player _stealthsniper_ is 6adeda80-c860-4306-87ec-449530271efa
+[00:08:52] [Server thread/INFO]: _stealthsniper_[/24.188.161.146:61340] logged in with entity id 371 at (-70.76095195167356, 76.5, -81.64826466026969)
+[00:08:52] [Server thread/INFO]: _stealthsniper_ joined the game
+[00:08:52] [Server thread/WARN]: Fetching packet for removed entity awb['Cactus'/369, l='world', x=-106.88, y=74.94, z=-56.47]
+[00:09:09] [User Authenticator #4/INFO]: UUID of player gdaddy69 is a90499d2-9994-4ae5-aacd-07a3a4e92598
+[00:09:09] [Server thread/INFO]: gdaddy69[/192.168.1.14:37335] logged in with entity id 505 at (-71.02082572417754, 76.76636799395752, -79.31524924345277)
+[00:09:09] [Server thread/INFO]: gdaddy69 joined the game
+[00:13:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2666ms or 53 ticks behind
