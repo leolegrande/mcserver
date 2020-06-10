@@ -1,62 +1,47 @@
-[00:05:55] [Server thread/WARN]: Fetching packet for removed entity awb['Cactus'/111059, l='world', x=-106.47, y=67.94, z=-56.32]
-[00:08:49] [Server thread/INFO]: TigerZuo has made the advancement [What a Deal!]
-[00:12:02] [Server thread/INFO]: TigerZuo lost connection: Disconnected
-[00:12:02] [Server thread/INFO]: TigerZuo left the game
-[00:12:02] [Server thread/INFO]: _stealthsniper_ lost connection: Disconnected
-[00:12:02] [Server thread/INFO]: _stealthsniper_ left the game
-[00:12:28] [User Authenticator #17/INFO]: UUID of player TigerZuo is 64e2819a-ccdf-41b3-9593-bfda6b714ff1
-[00:12:28] [Server thread/INFO]: TigerZuo[/68.53.31.82:61111] logged in with entity id 114171 at (-152.87579474290027, 72.0, -25.96095220005624)
-[00:12:28] [Server thread/INFO]: TigerZuo joined the game
-[00:12:45] [User Authenticator #18/INFO]: UUID of player _stealthsniper_ is 6adeda80-c860-4306-87ec-449530271efa
-[00:12:45] [Server thread/INFO]: _stealthsniper_[/24.188.161.146:55499] logged in with entity id 114333 at (-70.60617764201285, 72.0, -60.711901634838945)
-[00:12:45] [Server thread/INFO]: _stealthsniper_ joined the game
-[00:13:22] [Server thread/WARN]: Fetching packet for removed entity awb['Bamboo'/114641, l='world', x=-108.87, y=73.00, z=-57.13]
-[00:13:23] [Server thread/WARN]: Fetching packet for removed entity awb['Bamboo'/114646, l='world', x=-108.25, y=72.69, z=-57.75]
-[00:34:44] [Server thread/INFO]: gdaddy69 lost connection: Disconnected
-[00:34:44] [Server thread/INFO]: gdaddy69 left the game
-[01:05:58] [Server thread/INFO]: _stealthsniper_ lost connection: Disconnected
-[01:05:58] [Server thread/INFO]: _stealthsniper_ left the game
-[01:59:14] [Server thread/INFO]: TigerZuo was shot by Skeleton
-[11:08:22] [Server thread/INFO]: TigerZuo lost connection: Disconnected
-[11:08:22] [Server thread/INFO]: TigerZuo left the game
-[11:53:34] [Server thread/INFO]: com.mojang.authlib.GameProfile@1e59eef[id=<null>,name=TigerZuo,properties={},legacy=false] (/68.53.31.82:59233) lost connection: Disconnected
-[11:53:36] [User Authenticator #19/INFO]: UUID of player TigerZuo is 64e2819a-ccdf-41b3-9593-bfda6b714ff1
-[11:53:37] [Server thread/INFO]: TigerZuo[/68.53.31.82:59278] logged in with entity id 161172 at (-101.69999998807907, 70.5, -57.896010718628844)
-[11:53:37] [Server thread/INFO]: TigerZuo joined the game
-[11:53:37] [Server thread/WARN]: Fetching packet for removed entity awb['Cactus'/161167, l='world', x=-106.88, y=74.94, z=-56.14]
-[12:14:40] [Server thread/INFO]: TigerZuo lost connection: Disconnected
-[12:14:40] [Server thread/INFO]: TigerZuo left the game
-[13:07:02] [User Authenticator #20/INFO]: UUID of player gdaddy69 is a90499d2-9994-4ae5-aacd-07a3a4e92598
-[13:07:02] [Server thread/INFO]: gdaddy69[/192.168.1.14:32158] logged in with entity id 170521 at (-120.30152304195155, 71.0, -26.02686315819996)
-[13:07:02] [Server thread/INFO]: gdaddy69 joined the game
-[13:12:28] [Server thread/WARN]: Fetching packet for removed entity awb['Air'/173347, l='world', x=-104.53, y=71.00, z=-37.21]
-[14:11:50] [Server thread/WARN]: Fetching packet for removed entity awb['Cactus'/201068, l='world', x=-106.88, y=74.86, z=-56.14]
-[14:11:51] [Server thread/WARN]: Fetching packet for removed entity awb['Bamboo'/201075, l='world', x=-108.91, y=73.00, z=-57.51]
-[14:24:09] [Server thread/WARN]: Fetching packet for removed entity awb['Bamboo'/206898, l='world', x=-108.19, y=66.00, z=-57.13]
-[15:22:21] [User Authenticator #21/INFO]: UUID of player TigerZuo is 64e2819a-ccdf-41b3-9593-bfda6b714ff1
-[15:22:21] [Server thread/INFO]: TigerZuo[/68.53.31.82:50347] logged in with entity id 232894 at (-99.30000001192093, 64.0, -59.23200101084476)
-[15:22:21] [Server thread/INFO]: TigerZuo joined the game
-[15:23:10] [Server thread/INFO]: <gdaddy69> disc?
-[15:23:33] [Server thread/INFO]: <TigerZuo> nah I was planning on just afking and doing some work
-[15:23:36] [Server thread/INFO]: <gdaddy69> kk
-[15:23:41] [Server thread/INFO]: <gdaddy69> i'm gonna shut down the server tho lol
-[15:23:45] [Server thread/INFO]: <gdaddy69> in like 20 minutes
-[15:23:48] [Server thread/INFO]: <gdaddy69> cuz i gotta work on zoom
-[15:24:15] [Server thread/INFO]: <TigerZuo> aight all good
-[15:25:30] [Server thread/INFO]: TigerZuo lost connection: Disconnected
-[15:25:30] [Server thread/INFO]: TigerZuo left the game
-[15:42:20] [Server thread/INFO]: gdaddy69 lost connection: Disconnected
-[15:42:20] [Server thread/INFO]: gdaddy69 left the game
-[15:42:27] [Server thread/INFO]: Stopping the server
-[15:42:28] [Server thread/INFO]: Stopping server
-[15:42:28] [Server thread/INFO]: Saving players
-[15:42:28] [Server thread/INFO]: Saving worlds
-[15:42:28] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[15:42:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[15:42:28] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[15:42:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[15:42:28] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[15:42:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[15:42:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[15:42:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[15:42:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:00:33] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[21:00:33] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:00:33] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:00:33] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[21:00:33] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:00:33] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[21:00:33] [Server thread/INFO]: Loading properties
+[21:00:33] [Server thread/INFO]: Default game type: SURVIVAL
+[21:00:33] [Server thread/INFO]: Generating keypair
+[21:00:33] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:00:33] [Server thread/INFO]: Using default channel type
+[21:00:34] [Server thread/INFO]: Preparing level "world"
+[21:00:34] [Server thread/INFO]: Reloading ResourceManager: Default
+[21:00:35] [Server thread/INFO]: Loaded 6 recipes
+[21:00:35] [Server thread/INFO]: Loaded 825 advancements
+[21:00:36] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:00:38] [Server thread/INFO]: Preparing spawn area: 0%
+[21:00:38] [Server thread/INFO]: Preparing spawn area: 0%
+[21:00:38] [Server thread/INFO]: Preparing spawn area: 0%
+[21:00:38] [Server thread/INFO]: Preparing spawn area: 0%
+[21:00:46] [Server-Worker-4/INFO]: Preparing spawn area: 0%
+[21:00:46] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[21:00:46] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[21:00:46] [Server-Worker-4/INFO]: Preparing spawn area: 0%
+[21:00:46] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[21:00:46] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[21:00:46] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[21:00:46] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[21:00:46] [Server-Worker-4/INFO]: Preparing spawn area: 0%
+[21:00:46] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:00:46] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[21:00:46] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[21:00:46] [Server-Worker-5/INFO]: Preparing spawn area: 0%
+[21:00:46] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[21:00:46] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[21:00:46] [Server thread/INFO]: Preparing spawn area: 0%
+[21:00:46] [Server thread/INFO]: Time elapsed: 9754 ms
+[21:00:46] [Server thread/INFO]: Done (11.906s)! For help, type "help"
+[21:01:42] [User Authenticator #1/INFO]: UUID of player gdaddy69 is a90499d2-9994-4ae5-aacd-07a3a4e92598
+[21:01:42] [Server thread/INFO]: gdaddy69[/192.168.1.14:35537] logged in with entity id 352 at (-105.67835390326208, 71.0, -63.24939893255987)
+[21:01:43] [Server thread/INFO]: gdaddy69 joined the game
+[21:14:39] [Server thread/WARN]: Horse moved wrongly!
+[21:14:39] [Server thread/WARN]: Horse moved wrongly!
+[21:14:39] [Server thread/WARN]: Horse moved wrongly!
+[21:14:39] [Server thread/WARN]: Horse moved wrongly!
+[21:17:38] [Server thread/WARN]: Horse moved wrongly!
+[21:19:56] [Server thread/INFO]: gdaddy69 has made the advancement [What a Deal!]
