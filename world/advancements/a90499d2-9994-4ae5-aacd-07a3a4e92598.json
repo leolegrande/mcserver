@@ -287,6 +287,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2020-06-10 00:32:18 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2020-06-04 00:53:44 -0400"
@@ -769,6 +775,7 @@
       "minecraft:magma_cube": "2020-06-07 20:23:40 -0400",
       "minecraft:spider": "2020-06-03 23:31:28 -0400",
       "minecraft:creeper": "2020-06-04 02:21:52 -0400",
+      "minecraft:slime": "2020-06-10 02:19:09 -0400",
       "minecraft:phantom": "2020-06-04 22:52:49 -0400",
       "minecraft:witch": "2020-06-07 03:36:52 -0400",
       "minecraft:wither_skeleton": "2020-06-05 22:37:59 -0400",
@@ -2139,6 +2146,7 @@
       "cooked_porkchop": "2020-06-04 01:09:47 -0400",
       "cooked_mutton": "2020-06-04 00:48:24 -0400",
       "cooked_beef": "2020-06-04 03:53:48 -0400",
+      "chorus_fruit": "2020-06-10 04:11:30 -0400",
       "apple": "2020-06-05 23:29:16 -0400",
       "potato": "2020-06-05 02:22:21 -0400",
       "cooked_cod": "2020-06-09 22:02:27 -0400",
@@ -3181,6 +3189,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime": "2020-06-10 03:36:20 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2020-06-04 00:53:46 -0400"
@@ -3220,6 +3234,12 @@
   "minecraft:recipes/building_blocks/polished_granite_slab": {
     "criteria": {
       "has_polished_granite": "2020-06-04 02:28:52 -0400"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2020-06-10 00:31:55 -0400"
     },
     "done": true
   },
