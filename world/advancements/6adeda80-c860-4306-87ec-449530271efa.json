@@ -83,6 +83,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_yellow_dye": "2020-06-11 19:53:07 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
       "has_stone_bricks": "2020-06-04 00:27:13 -0400"
@@ -359,6 +365,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/summon_iron_golem": {
+    "criteria": {
+      "summoned_golem": "2020-06-11 22:19:18 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-06-03 23:55:55 -0400"
@@ -494,6 +506,12 @@
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2020-06-04 04:00:10 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_double_plant": "2020-06-11 19:53:03 -0400"
     },
     "done": true
   },
@@ -1530,6 +1548,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_carpet": {
+    "criteria": {
+      "has_the_recipe": "2020-06-11 19:53:38 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brick_slab": {
     "criteria": {
       "has_brick_block": "2020-06-06 15:26:19 -0400"
@@ -1961,6 +1985,7 @@
       "cooked_porkchop": "2020-06-04 03:17:11 -0400",
       "cooked_mutton": "2020-06-03 23:36:48 -0400",
       "cooked_beef": "2020-06-06 19:50:47 -0400",
+      "chorus_fruit": "2020-06-12 02:34:56 -0400",
       "apple": "2020-06-04 03:17:46 -0400",
       "bread": "2020-06-04 01:07:41 -0400",
       "golden_apple": "2020-06-04 03:55:56 -0400",
@@ -2175,7 +2200,9 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:llama": "2020-06-11 19:11:12 -0400",
       "minecraft:turtle": "2020-06-07 03:27:41 -0400",
+      "minecraft:sheep": "2020-06-11 20:38:07 -0400",
       "minecraft:cow": "2020-06-05 00:59:33 -0400",
       "minecraft:chicken": "2020-06-05 17:29:53 -0400"
     },
@@ -2514,6 +2541,12 @@
   "minecraft:recipes/decorations/slime_block": {
     "criteria": {
       "has_slime_ball": "2020-06-05 21:06:29 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2020-06-11 18:33:08 -0400"
     },
     "done": true
   },
