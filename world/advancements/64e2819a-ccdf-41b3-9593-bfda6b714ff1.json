@@ -212,6 +212,12 @@
     },
     "done": true
   },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2020-06-12 20:38:57 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2020-06-04 02:16:08 -0400"
@@ -566,6 +572,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_lime_dye": "2020-06-12 20:55:33 -0400"
+    },
+    "done": true
+  },
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2020-06-10 23:15:26 -0400"
@@ -668,6 +680,7 @@
       "minecraft:witch": "2020-06-05 19:03:41 -0400",
       "minecraft:wither_skeleton": "2020-06-05 22:42:09 -0400",
       "minecraft:husk": "2020-06-06 00:08:54 -0400",
+      "minecraft:shulker": "2020-06-12 20:24:27 -0400",
       "minecraft:cave_spider": "2020-06-05 21:02:27 -0400",
       "minecraft:enderman": "2020-06-04 01:30:11 -0400",
       "minecraft:silverfish": "2020-06-08 02:00:09 -0400",
@@ -752,6 +765,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_red_flower": "2020-06-05 23:53:36 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_carpet_from_white_carpet": {
+    "criteria": {
+      "has_lime_dye": "2020-06-12 20:55:33 -0400"
     },
     "done": true
   },
@@ -1842,6 +1861,7 @@
     "criteria": {
       "cooked_porkchop": "2020-06-04 01:25:05 -0400",
       "cooked_mutton": "2020-06-03 23:40:11 -0400",
+      "sweet_berries": "2020-06-12 21:38:12 -0400",
       "bread": "2020-06-04 01:36:38 -0400",
       "rotten_flesh": "2020-06-04 00:09:21 -0400",
       "melon_slice": "2020-06-11 13:51:04 -0400",
@@ -2793,6 +2813,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2020-06-12 20:20:01 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2020-06-03 23:40:25 -0400"
@@ -2826,6 +2852,12 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2020-06-04 02:06:50 -0400"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2020-06-12 20:17:02 -0400"
     },
     "done": true
   },
