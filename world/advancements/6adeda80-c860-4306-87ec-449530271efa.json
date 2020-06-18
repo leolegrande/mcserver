@@ -896,6 +896,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2020-06-14 01:12:27 -0400"
+    },
+    "done": true
+  },
   "minecraft:story/follow_ender_eye": {
     "criteria": {
       "in_stronghold": "2020-06-08 01:54:02 -0400"
@@ -1374,9 +1380,13 @@
       "minecraft:taiga": "2020-06-05 20:53:50 -0400",
       "minecraft:desert_hills": "2020-06-06 21:02:50 -0400",
       "minecraft:deep_cold_ocean": "2020-06-05 01:09:01 -0400",
+      "minecraft:snowy_tundra": "2020-06-13 14:21:37 -0400",
       "minecraft:taiga_hills": "2020-06-05 21:15:41 -0400",
       "minecraft:desert": "2020-06-04 02:58:59 -0400",
+      "minecraft:frozen_river": "2020-06-13 14:21:38 -0400",
       "minecraft:birch_forest": "2020-06-05 20:46:31 -0400",
+      "minecraft:snowy_beach": "2020-06-13 14:21:34 -0400",
+      "minecraft:warm_ocean": "2020-06-13 14:17:05 -0400",
       "minecraft:deep_lukewarm_ocean": "2020-06-05 02:01:28 -0400",
       "minecraft:savanna_plateau": "2020-06-03 23:41:20 -0400",
       "minecraft:beach": "2020-06-03 23:31:24 -0400",
@@ -1597,6 +1607,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2020-06-14 01:12:27 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2020-06-04 00:20:41 -0400"
@@ -1813,6 +1829,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2020-06-13 13:31:13 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2020-06-04 03:00:39 -0400"
@@ -1939,6 +1961,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2020-06-13 14:21:50 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2020-06-03 23:27:18 -0400"
@@ -2047,6 +2075,12 @@
   "minecraft:recipes/redstone/jungle_trapdoor": {
     "criteria": {
       "has_planks": "2020-06-09 23:33:02 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2020-06-14 01:12:27 -0400"
     },
     "done": true
   },
