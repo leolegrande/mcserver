@@ -1,47 +1,68 @@
-[21:01:39] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[21:01:39] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[21:01:39] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[21:01:39] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[21:01:39] [Server thread/INFO]: Starting minecraft server version 1.15.2
-[21:01:39] [Server thread/INFO]: Loading properties
-[21:01:39] [Server thread/INFO]: Default game type: SURVIVAL
-[21:01:39] [Server thread/INFO]: Generating keypair
-[21:01:39] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:01:39] [Server thread/INFO]: Using default channel type
-[21:01:40] [Server thread/INFO]: Preparing level "world"
-[21:01:40] [Server thread/INFO]: Reloading ResourceManager: Default
-[21:01:41] [Server thread/INFO]: Loaded 6 recipes
-[21:01:41] [Server thread/INFO]: Loaded 825 advancements
-[21:01:42] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:01:43] [Server thread/INFO]: Preparing spawn area: 0%
-[21:01:43] [Server thread/INFO]: Preparing spawn area: 0%
-[21:01:43] [Server thread/INFO]: Preparing spawn area: 0%
-[21:01:45] [Server-Worker-7/INFO]: Preparing spawn area: 0%
-[21:01:45] [Server-Worker-4/INFO]: Preparing spawn area: 0%
-[21:01:45] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[21:01:45] [Server-Worker-7/INFO]: Preparing spawn area: 0%
-[21:01:45] [Server-Worker-6/INFO]: Preparing spawn area: 0%
-[21:01:46] [Server thread/INFO]: Preparing spawn area: 21%
-[21:01:46] [Server thread/INFO]: Time elapsed: 4175 ms
-[21:01:46] [Server thread/INFO]: Done (5.885s)! For help, type "help"
-[21:01:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[21:03:07] [User Authenticator #1/INFO]: UUID of player gdaddy69 is a90499d2-9994-4ae5-aacd-07a3a4e92598
-[21:03:08] [Server thread/INFO]: gdaddy69[/192.168.1.14:10927] logged in with entity id 557 at (-1462.9724546146788, 67.0, -285.69999998807907)
-[21:03:08] [Server thread/INFO]: gdaddy69 joined the game
-[21:03:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
-[21:03:20] [Server thread/INFO]: gdaddy69 lost connection: Disconnected
-[21:03:20] [Server thread/INFO]: gdaddy69 left the game
-[21:03:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2836ms or 56 ticks behind
-[21:23:50] [Server thread/INFO]: Stopping the server
-[21:23:50] [Server thread/INFO]: Stopping server
-[21:23:50] [Server thread/INFO]: Saving players
-[21:23:50] [Server thread/INFO]: Saving worlds
-[21:23:50] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[21:23:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[21:23:50] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[21:23:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21:23:50] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[21:23:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[21:23:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[21:23:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21:23:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:29:31] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[01:29:32] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[01:29:32] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[01:29:32] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[01:29:32] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[01:29:32] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[01:29:32] [main/INFO]: Reloading ResourceManager: Default
+[01:29:33] [Worker-Main-13/INFO]: Loaded 7 recipes
+[01:29:33] [Worker-Main-13/INFO]: Loaded 927 advancements
+[01:29:34] [Server thread/INFO]: Starting minecraft server version 1.16.1
+[01:29:34] [Server thread/INFO]: Loading properties
+[01:29:34] [Server thread/INFO]: Default game type: SURVIVAL
+[01:29:34] [Server thread/INFO]: Generating keypair
+[01:29:34] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:29:34] [Server thread/INFO]: Using default channel type
+[01:29:35] [Server thread/INFO]: Preparing level "world"
+[01:29:35] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:29:37] [Server thread/INFO]: Preparing spawn area: 0%
+[01:29:37] [Server thread/INFO]: Preparing spawn area: 0%
+[01:29:37] [Server thread/INFO]: Preparing spawn area: 0%
+[01:29:37] [Server thread/INFO]: Preparing spawn area: 0%
+[01:29:37] [Server thread/INFO]: Preparing spawn area: 0%
+[01:29:37] [Server thread/INFO]: Preparing spawn area: 0%
+[01:29:38] [Server thread/INFO]: Preparing spawn area: 44%
+[01:29:38] [Server thread/INFO]: Preparing spawn area: 45%
+[01:29:39] [Server thread/INFO]: Time elapsed: 4090 ms
+[01:29:39] [Server thread/INFO]: Done (4.212s)! For help, type "help"
+[01:29:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2739ms or 54 ticks behind
+[01:29:46] [User Authenticator #1/INFO]: UUID of player gdaddy69 is a90499d2-9994-4ae5-aacd-07a3a4e92598
+[01:29:46] [Server thread/INFO]: gdaddy69[/192.168.1.14:7395] logged in with entity id 556 at (-51.21432434952721, 72.0, -62.952966171915605)
+[01:29:46] [Server thread/INFO]: gdaddy69 joined the game
+[01:29:58] [User Authenticator #2/INFO]: UUID of player maxiieeee is 037404ec-d2e2-4392-90fe-e80f717ddc7c
+[01:29:58] [Server thread/INFO]: maxiieeee[/108.28.3.17:53058] logged in with entity id 586 at (-56.55233317686768, 72.5, -61.36800523482857)
+[01:29:58] [Server thread/INFO]: maxiieeee joined the game
+[01:29:59] [User Authenticator #3/INFO]: UUID of player _stealthsniper_ is 6adeda80-c860-4306-87ec-449530271efa
+[01:29:59] [Server thread/INFO]: _stealthsniper_[/24.188.161.146:62641] logged in with entity id 608 at (-890.7716479783738, 58.0, -353.09317341268985)
+[01:29:59] [Server thread/INFO]: _stealthsniper_ joined the game
+[01:30:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14847ms or 296 ticks behind
+[01:30:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2075ms or 41 ticks behind
+[01:31:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[01:32:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[01:33:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[01:34:14] [Server thread/WARN]: _stealthsniper_ moved too quickly! 17.39464448584613,-2.5465263543055983,3.40372098751709
+[01:34:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4193ms or 83 ticks behind
+[01:34:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2178ms or 43 ticks behind
+[01:34:34] [Server thread/WARN]: _stealthsniper_ moved too quickly! 17.097695139456846,-1.3008986380175713,3.469158653724037
+[01:35:13] [Server thread/WARN]: _stealthsniper_ moved too quickly! 18.12727333832936,-1.8143438724846987,1.6867013619428235
+[01:35:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2285ms or 45 ticks behind
+[01:37:27] [Server thread/INFO]: _stealthsniper_ lost connection: Disconnected
+[01:37:27] [Server thread/INFO]: _stealthsniper_ left the game
+[01:37:40] [User Authenticator #4/INFO]: UUID of player _stealthsniper_ is 6adeda80-c860-4306-87ec-449530271efa
+[01:37:40] [Server thread/INFO]: _stealthsniper_[/24.188.161.146:62691] logged in with entity id 4713 at (-78.69482760415357, 72.0, -60.211708369768424)
+[01:37:40] [Server thread/INFO]: _stealthsniper_ joined the game
+[01:37:58] [Server thread/INFO]: _stealthsniper_ lost connection: Disconnected
+[01:37:58] [Server thread/INFO]: _stealthsniper_ left the game
+[01:38:38] [Server thread/INFO]: Stopping the server
+[01:38:38] [Server thread/INFO]: Stopping server
+[01:38:38] [Server thread/INFO]: Saving players
+[01:38:38] [Server thread/INFO]: Saving worlds
+[01:38:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:38:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:38:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01:38:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:38:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01:38:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:38:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:38:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:38:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
